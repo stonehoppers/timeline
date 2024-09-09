@@ -1,0 +1,119 @@
+:root {
+  background-color: #36393f;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+}
+#main {
+  overflow-x: scroll;
+  padding: 0 100px;
+  padding-bottom: 100px;
+  height: min-content;
+  display: grid;
+  grid-template-columns: repeat(62, 40px);
+  grid-template-rows: repeat(4, 1fr);
+}
+.timeline2 {
+  background: repeating-linear-gradient(
+    to right,
+    black,
+    black 1px,
+    transparent 1px,
+    transparent 40px
+  );
+  width: calc(40px * 62);
+  grid-column: 2/-1;
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-auto-rows: 40px;
+  row-gap: 10px;
+  .day {
+    grid-row-start: 2;
+  }
+  .weekday {
+    grid-row-start: 1;
+  }
+  .event {
+    color: white;
+    background-color: #7289da;
+    width: auto;
+    height: auto;
+    border-radius: 12px;
+    margin-right: 10px;
+    margin-left: 2px;
+    padding: 10px;
+    grid-column: var(--start) / span var(--duration);
+    > span {
+      position: sticky;
+      left: 0;
+    }
+  }
+}
+
+.timeline {
+  color: white;
+
+  width: calc(40px * 62);
+  background: repeating-linear-gradient(
+    to right,
+    black,
+    black 1px,
+    transparent 1px,
+    transparent 40px
+  );
+  /* outline: 1px red solid; */
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-template-rows: repeat(auto-fit, 40px);
+  row-gap: 10px;
+  padding-bottom: 10px;
+
+  .event {
+    color: white;
+    background-color: #7289da;
+    width: auto;
+    height: auto;
+    border-radius: 12px;
+    margin-right: 10px;
+    margin-left: 2px;
+    padding: 10px;
+    grid-column: var(--start) / span var(--duration);
+    > span {
+      position: sticky;
+      left: 0;
+    }
+  }
+
+  .day,
+  .weekday {
+    /* background-color: white; */
+    /* outline: 1px red solid; */
+    width: min-content;
+    height: min-content;
+    position: relative;
+    left: -5px;
+  }
+  .day {
+    grid-row-start: 2;
+  }
+  .weekday {
+    grid-row-start: 1;
+  }
+}
+#labels {
+  background: none;
+}
+
+#now {
+  background-color: red;
+  grid-column: 1/2;
+  grid-row: 1/-1;
+  width: 2px;
+  align-self: end;
+  height: calc(100% - 100px);
+  position: relative;
+  left: calc(40px * var(--now));
+}
