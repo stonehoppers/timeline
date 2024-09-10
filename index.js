@@ -1,27 +1,33 @@
+const eventsJSON = await (await fetch("./events.json")).json();
 const labels = document.querySelector("#labels");
 const giTimeline = document.querySelector("#gi-timeline");
 const hsrTimeline = document.querySelector("#hsr-timeline");
 const zzzTimeline = document.querySelector("#zzz-timeline");
 
+const DAY = 1000 * 60 * 60 * 24;
+const HOUR = 1000 * 60 * 60;
+const MINUTE = 1000 * 60;
+
 const weekdayDict = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
 const gameDict = { genshin: giTimeline, hsr: hsrTimeline, zzz: zzzTimeline };
 
-const start = new Date(Date.UTC(2024, 7, 1));
-const end = new Date(Date.UTC(2024, 9, 1));
+const timelineStart = new Date(Date.UTC(2024, 7, 1));
+const timelineEnd = new Date(Date.UTC(2024, 9, 1));
 const now = new Date();
 
-const events = [
-  { name: "Traces of Artistry", duration: 19, start: 28, game: "genshin" },
-  { name: "Brillant Dawn", duration: 19, start: 30, game: "genshin" },
-  {
-    name: "Dodoco's Boom-Bastic Escapades",
-    duration: 14,
-    start: 40,
-    game: "genshin",
-  },
-  { name: "Camelia Golden Week", duration: 14, start: 40, game: "zzz" },
-  { name: '"En-Nah" Into Your Lap', duration: 21, start: 33, game: "zzz" },
-];
+const events = [];
+for (const { name, start, end, game } of eventsJSON) {
+  console.log(roundTimestamp(start));
+  console.log(timelineStart);
+  console.log(daysDiff(timelineStart, roundTimestamp(start)));
+  events.push({
+    name,
+    game,
+    duration: daysDiff(roundTimestamp(start), roundTimestamp(end)),
+    start: daysDiff(timelineStart, roundTimestamp(start)),
+    timeLeft: timeDiff(now, new Date(end)),
+  });
+}
 
 //add months labels
 for (let i = 1; i <= 31; i++) {
@@ -48,7 +54,7 @@ for (let i = 1; i <= 30; i++) {
 }
 
 const nowDiv = document.querySelector("#now");
-nowDiv.style.setProperty("--now", daysDiff(start, new Date()));
+nowDiv.style.setProperty("--now", daysDiff(timelineStart, new Date()));
 nowDiv.scrollIntoView({
   behavior: "smooth",
   block: "nearest",
@@ -56,11 +62,11 @@ nowDiv.scrollIntoView({
 });
 
 //add events
-for (const { name, duration, start, game } of events) {
-  addEvent(name, duration, start, gameDict[game]);
+for (const { name, duration, start, game, timeLeft } of events) {
+  addEvent(name, duration, start, gameDict[game], timeLeft);
 }
 
-function addEvent(name, duration, start, timeline) {
+function addEvent(name, duration, start, timeline, timeLeft = "N/A") {
   const eventDiv = document.createElement("div");
   eventDiv.classList.add("event");
   //   eventDiv.style = `--duration: ${duration}; --start: ${start}`;
@@ -69,11 +75,25 @@ function addEvent(name, duration, start, timeline) {
 
   const eventSpan = document.createElement("span");
   eventSpan.innerText = name;
-
   eventDiv.append(eventSpan);
+
+  const timeDiv = document.createElement("span");
+  timeDiv.classList.add("time");
+  timeDiv.innerText = timeLeft;
+  eventDiv.append(timeDiv);
   timeline.append(eventDiv);
 }
 
 function daysDiff(a, b) {
-  return Math.ceil((b.valueOf() - a.valueOf()) / (1000 * 60 * 60 * 24));
+  return Math.floor((b.valueOf() - a.valueOf()) / DAY) + 1;
+}
+function timeDiff(a, b) {
+  const diffTime = Math.floor(b.valueOf() - a.valueOf());
+  const days = Math.floor(diffTime / DAY);
+  const hours = Math.floor((diffTime % DAY) / HOUR);
+  const minutes = Math.floor((diffTime % HOUR) / MINUTE);
+  return `${days}d${hours}h${minutes}m`;
+}
+function roundTimestamp(timestring) {
+  return new Date(Math.floor(Date.parse(timestring) / DAY) * DAY);
 }
