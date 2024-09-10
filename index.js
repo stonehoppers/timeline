@@ -17,9 +17,6 @@ const now = new Date();
 
 const events = [];
 for (const { name, start, end, game } of eventsJSON) {
-  console.log(roundTimestamp(start));
-  console.log(timelineStart);
-  console.log(daysDiff(timelineStart, roundTimestamp(start)));
   events.push({
     name,
     game,
