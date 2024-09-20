@@ -3,93 +3,111 @@ const labels = document.querySelector("#labels");
 const giTimeline = document.querySelector("#gi-timeline");
 const hsrTimeline = document.querySelector("#hsr-timeline");
 const zzzTimeline = document.querySelector("#zzz-timeline");
+const hi3Timeline = document.querySelector("#hi3-timeline");
 
 const DAY = 1000 * 60 * 60 * 24;
 const HOUR = 1000 * 60 * 60;
 const MINUTE = 1000 * 60;
 
-const weekdayDict = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"];
-const gameDict = { genshin: giTimeline, hsr: hsrTimeline, zzz: zzzTimeline };
+const weekdayDict = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const gameDict = {
+  genshin: giTimeline,
+  hsr: hsrTimeline,
+  zzz: zzzTimeline,
+  hi3: hi3Timeline,
+};
 
-const timelineStart = new Date(Date.UTC(2024, 7, 1));
-const timelineEnd = new Date(Date.UTC(2024, 9, 1));
 const now = new Date();
+const timelineStart = new Date(
+  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - 1, 1)
+);
+const timelineEnd = new Date(
+  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 2, 0)
+);
+console.log(timelineStart, timelineEnd);
 
+//add events
 const events = [];
 for (const { name, start, end, game } of eventsJSON) {
   events.push({
     name,
     game,
-    duration: daysDiff(roundTimestamp(start), roundTimestamp(end)),
-    start: daysDiff(timelineStart, roundTimestamp(start)),
-    timeLeft: timeDiff(now, new Date(end)),
+    start: daysDiff(timelineStart, new Date(start)),
+    duration: daysDiff(timelineStart, new Date(end)),
+    timeLeft: new Date(end) - now,
   });
+  // break;
 }
-
-//add months labels
-for (let i = 1; i <= 31; i++) {
-  const dayDiv = document.createElement("div");
-  dayDiv.classList.add("day");
-  dayDiv.innerText = i;
-  labels.append(dayDiv);
-
-  const weekdayDiv = document.createElement("div");
-  weekdayDiv.classList.add("weekday");
-  weekdayDiv.innerText = weekdayDict[(i - 1 + 3) % 7];
-  labels.append(weekdayDiv);
-}
-for (let i = 1; i <= 30; i++) {
-  const dayDiv = document.createElement("div");
-  dayDiv.classList.add("day");
-  dayDiv.innerText = i;
-  labels.append(dayDiv);
-
-  const weekdayDiv = document.createElement("div");
-  weekdayDiv.classList.add("weekday");
-  weekdayDiv.innerText = weekdayDict[(i - 1 + 6) % 7];
-  labels.append(weekdayDiv);
-}
-
-const nowDiv = document.querySelector("#now");
-nowDiv.style.setProperty("--now", daysDiff(timelineStart, new Date()));
-nowDiv.scrollIntoView({
-  behavior: "smooth",
-  block: "nearest",
-  inline: "center",
-});
-
-//add events
 for (const { name, duration, start, game, timeLeft } of events) {
   addEvent(name, duration, start, gameDict[game], timeLeft);
 }
 
-function addEvent(name, duration, start, timeline, timeLeft = "N/A") {
+//#region MONTHS
+//add months labels
+for (
+  let __current = timelineStart;
+  __current - timelineEnd < 0;
+  __current = new Date(__current.valueOf() + DAY)
+) {
+  console.log("CURRENT", __current);
+  const dayDiv = document.createElement("div");
+  dayDiv.classList.add("day");
+  dayDiv.innerText = __current.getDate();
+  labels.append(dayDiv);
+
+  const weekdayDiv = document.createElement("div");
+  weekdayDiv.classList.add("weekday");
+  weekdayDiv.innerText = weekdayDict[__current.getDay()];
+  labels.append(weekdayDiv);
+}
+
+//#region NOW
+const nowDiv = document.querySelector("#now");
+nowDiv.style.setProperty("--now", daysDiff(timelineStart, now));
+nowDiv.scrollIntoView({
+  behavior: "smooth",
+  // block: "start",
+  inline: "center",
+});
+
+//#region FUNCTIONS
+function addEvent(name, start, duration, timeline, timeLeft = "N/A") {
+  if (duration < 0) return;
   const eventDiv = document.createElement("div");
   eventDiv.classList.add("event");
-  //   eventDiv.style = `--duration: ${duration}; --start: ${start}`;
+  eventDiv.style.setProperty("--start", start > 0 ? start : 1);
   eventDiv.style.setProperty("--duration", duration);
-  eventDiv.style.setProperty("--start", start);
 
-  const eventSpan = document.createElement("span");
+  const eventSpan = document.createElement("div");
   eventSpan.innerText = name;
   eventDiv.append(eventSpan);
 
-  const timeDiv = document.createElement("span");
+  const timeDiv = document.createElement("div");
   timeDiv.classList.add("time");
-  timeDiv.innerText = timeLeft;
+  const { days, hours, minutes } = parseMilliseconds(timeLeft);
+  if (timeLeft > 0) {
+    timeDiv.innerText = `${days}d${hours}h${minutes}m`;
+    if (timeLeft < DAY * 7) timeDiv.classList.add("expiring-7d");
+    if (timeLeft < DAY * 3) timeDiv.classList.add("expiring-3d");
+    if (timeLeft < DAY) timeDiv.classList.add("expiring-1d");
+  } else {
+    timeDiv.innerText = "Expired";
+    timeDiv.classList.add("expired");
+  }
   eventDiv.append(timeDiv);
+
   timeline.append(eventDiv);
 }
 
-function daysDiff(a, b) {
-  return Math.floor((b.valueOf() - a.valueOf()) / DAY) + 1;
+function daysDiff(start, end) {
+  const { days, hours } = parseMilliseconds(end - start);
+  return days * 48 + hours * 2;
 }
-function timeDiff(a, b) {
-  const diffTime = Math.floor(b.valueOf() - a.valueOf());
-  const days = Math.floor(diffTime / DAY);
-  const hours = Math.floor((diffTime % DAY) / HOUR);
-  const minutes = Math.floor((diffTime % HOUR) / MINUTE);
-  return `${days}d${hours}h${minutes}m`;
+function parseMilliseconds(milliseconds) {
+  const days = Math.floor(milliseconds / DAY);
+  const hours = Math.floor((milliseconds % DAY) / HOUR);
+  const minutes = Math.floor((milliseconds % HOUR) / MINUTE);
+  return { days, hours, minutes };
 }
 function roundTimestamp(timestring) {
   return new Date(Math.floor(Date.parse(timestring) / DAY) * DAY);

@@ -10,27 +10,37 @@ body {
 }
 #main {
   overflow-x: scroll;
-  padding: 0 2rem;
-  padding-bottom: 100px;
-  height: min-content;
+  padding: 0 5vw;
+  /* padding-bottom: 1rem; */
+  height: 100%;
   display: grid;
-  grid-template-columns: repeat(62, 40px);
-  grid-template-rows: min-content repeat(3, min-content);
+  grid-template-columns: repeat(calc(92 * 48), 1px);
+  grid-template-rows: min-content repeat(5, min-content);
 }
 .timeline {
   background: repeating-linear-gradient(
-    to right,
-    black,
-    black 1px,
-    transparent 1px,
-    transparent 40px
-  );
-  width: calc(40px * 62);
+      to right,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5) 1px,
+      transparent 1px,
+      transparent 48px
+    ),
+    repeating-linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.3),
+      rgba(0, 0, 0, 0.3) 1px,
+      transparent 1px,
+      transparent 4px
+    );
+  width: calc(48px * 62);
   grid-column: 2/-1;
-  padding-top: 10px;
+  padding-bottom: 10px;
   display: grid;
   grid-template-columns: subgrid;
-  grid-auto-rows: 40px;
+  grid-auto-rows: min-content;
+  &#labels {
+    grid-auto-rows: 40px;
+  }
   row-gap: 10px;
   .day {
     grid-row-start: 2;
@@ -44,22 +54,39 @@ body {
     width: auto;
     height: auto;
     border-radius: 12px;
-    margin-right: 10px;
-    margin-left: 2px;
     padding: 10px;
     position: relative;
-    grid-column: var(--start) / span var(--duration);
-    .time {
+    grid-column: calc(var(--start) + 1) / calc(var(--duration) + 1);
+    /* .time {
       position: absolute;
       left: calc(100% + 10px);
       background-color: white;
       color: black;
       padding: 0 4px;
       border-radius: 12px;
-    }
-    > span {
+    } */
+    > div {
+      line-height: 1rem;
       position: sticky;
       left: 0;
+      width: max-content;
+      &.time {
+        font-size: 0.7rem;
+        color: lightgray;
+
+        &.expiring-7d {
+          color: yellow;
+        }
+        &.expiring-3d {
+          color: orange;
+        }
+        &.expiring-1d {
+          color: #b46946;
+        }
+        &.expired {
+          color: #6b1d1d;
+        }
+      }
     }
   }
 }
@@ -75,7 +102,13 @@ body {
 }
 
 #labels {
-  background: none;
+  background: #36393f;
+  position: sticky;
+  top: 0;
+  z-index: 150;
+  > div {
+    grid-column: span 48;
+  }
 }
 
 #now {
@@ -84,8 +117,8 @@ body {
   grid-row: 1/-1;
   width: 2px;
   align-self: end;
-  height: calc(100% - 100px);
+  height: 100%;
   position: relative;
-  left: calc(40px * var(--now));
-  z-index: 100;
+  left: calc(1px * var(--now));
+  z-index: 200;
 }

@@ -1,5 +1,13 @@
+# INTRO
+
+Congrats on finding this page!
+this is just a personal project that i made for my own convenience
+if you wanna help maintain the event list keep reading
+
 # Adding events
+
 if you want to contribute to the events list, follow this pattern for each event
+
 ```
 {
   "name":"event name",
@@ -8,4 +16,5 @@ if you want to contribute to the events list, follow this pattern for each event
   "game":""
 }
 ```
-allowed games are "genshin", "hsr", "zzz"
+
+allowed games are "genshin", "hsr", "zzz", "hi3"
