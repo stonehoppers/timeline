@@ -76,5 +76,29 @@
     "start": "2024/09/20 11:00:00 GMT+2",
     "end": "2024/09/30 04:59:59 GMT+2",
     "game": "genshin"
+  },
+  {
+    "name": "Seeking a Shadow on a Shore",
+    "start": "2024/09/16 10:00 GMT+2",
+    "end": "2024/10/17 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Born From a Dream",
+    "start": "2024/09/05 04:00 GMT+2",
+    "end": "2024/10/17 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Work Expert",
+    "start": "2024/09/05 04:00 GMT+2",
+    "end": "2024/10/04 11:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Ready to Go",
+    "start": "2024/09/05 04:00 GMT+2",
+    "end": "2024/10/04 11:59 GMT+2",
+    "game": "hi3"
   }
 ]
