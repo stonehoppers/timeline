@@ -38,6 +38,7 @@ body {
   display: grid;
   grid-template-columns: subgrid;
   grid-auto-rows: min-content;
+  grid-auto-flow: dense;
   &#labels {
     grid-auto-rows: 40px;
   }

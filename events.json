@@ -1,8 +1,26 @@
 [
   {
     "name": "Traces of Artistry",
-    "start": "Wed, 28 Aug 2024 07:00",
-    "end": "Mon, 16 Sep 2024 04:59",
+    "start": "2024/08/28 05:00 GMT+2",
+    "end": "2024/09/16 04:59 GMT+2",
+    "game": "genshin"
+  },
+  {
+    "name": "Where the Springs Return",
+    "start": "2024/08/28 05:00 GMT+2",
+    "end": "2024/09/17 18:59 GMT+2",
+    "game": "genshin"
+  },
+  {
+    "name": "Brillant Dawn",
+    "start": "2024/08/30 05:00 GMT+2",
+    "end": "2024/09/18 04:59 GMT+2",
+    "game": "genshin"
+  },
+  {
+    "name": "Dodoco's Boom-Bastic Escapades",
+    "start": "2024/09/09 05:00 GMT+2",
+    "end": "2024/09/23 04:59 GMT+2",
     "game": "genshin"
   },
   {
@@ -12,9 +30,9 @@
     "game": "genshin"
   },
   {
-    "name": "Brillant Dawn",
-    "start": "Fri, 30 Aug 2024 05:00",
-    "end": "Wed, 18 Sep 2024 04:59",
+    "name": "Yupanqui's Turnfire",
+    "start": "2024/09/17 19:00 GMT+2",
+    "end": "2024/10/08 15:59 GMT+2",
     "game": "genshin"
   },
   {
@@ -24,69 +42,39 @@
     "game": "genshin"
   },
   {
-    "name": "Dodoco's Boom-Bastic Escapades",
-    "start": "Mon, 9 Sep 2024 05:00",
-    "end": "Sun, 23 Sep 2024 04:59",
-    "game": "genshin"
-  },
-  {
-    "name": "Where the Springs Return",
-    "start": "Wed, 28 Aug 2024 07:00",
-    "end": "Tue, 17 Sep 2024 18:59",
-    "game": "genshin"
-  },
-  {
-    "name": "Yupanqui's Turnfire",
-    "start": "Tue, 17 Sep 2024 19:00",
-    "end": "Tue, 8 Oct 2024 15:59",
-    "game": "genshin"
-  },
-  {
     "name": "Luminary Wardance",
-    "start": "Tue, 10 Sep 2024 04:59",
-    "end": "Tue, 21 Oct 2024 04:59",
+    "start": "2024/09/10 05:00 GMT+2",
+    "end": "2024/10/21 04:59 GMT+2",
+    "game": "hsr"
+  },
+  {
+    "name": "Planar Fissure Event",
+    "start": "2024/09/23 05:00 GMT+2",
+    "end": "2024/09/30 04:59 GMT+2",
     "game": "hsr"
   },
   {
     "name": "Camelia Golden Week",
-    "start": "2024/08/21 10:00 GMT+1",
-    "end": "2024/09/23 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "All-New Program",
-    "start": "2024/09/25 05:00:00 GMT+2",
-    "end": "2024/11/05 03:59:59 GMT+2",
+    "start": "2024/08/21 11:00 GMT+2",
+    "end": "2024/09/23 04:59 GMT+2",
     "game": "zzz"
   },
   {
     "name": "\"En-Nah\" Into Your Lap",
-    "start": "2024/09/04 10:00 GMT+1",
-    "end": "2024/09/24 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Ember-Crowned Overlord & Dissonant Sonata",
-    "start": "2024/09/25 05:00:00 GMT+2",
-    "end": "2024/10/16 03:59:59 GMT+2",
+    "start": "2024/09/04 11:00 GMT+2",
+    "end": "2024/09/24 04:59 GMT+2",
     "game": "zzz"
   },
   {
     "name": "Immersive Tactical Drill",
-    "start": "2024/09/06 10:00 GMT+1",
-    "end": "2024/09/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Overlord's Feast",
-    "start": "2024/09/26 11:00:00 GMT+2",
-    "end": "2024/11/04 03:59:59 GMT+2",
+    "start": "2024/09/06 11:00 GMT+2",
+    "end": "2024/09/16 04:59 GMT+2",
     "game": "zzz"
   },
   {
     "name": "Scene One, Shot One!",
-    "start": "2024/09/13 10:00:00 GMT+1",
-    "end": "2024/09/23 03:59:59 GMT+1",
+    "start": "2024/09/13 11:00 GMT+2",
+    "end": "2024/09/23 04:59 GMT+2",
     "game": "zzz"
   },
   {
@@ -96,10 +84,22 @@
     "game": "zzz"
   },
   {
-    "name": "Seeking a Shadow on a Shore",
-    "start": "2024/09/16 10:00 GMT+2",
-    "end": "2024/10/17 03:59 GMT+2",
-    "game": "hi3"
+    "name": "All-New Program",
+    "start": "2024/09/25 05:00:00 GMT+2",
+    "end": "2024/11/05 03:59:59 GMT+2",
+    "game": "zzz"
+  },
+  {
+    "name": "Ember-Crowned Overlord & Dissonant Sonata",
+    "start": "2024/09/25 05:00:00 GMT+2",
+    "end": "2024/10/16 03:59:59 GMT+2",
+    "game": "zzz"
+  },
+  {
+    "name": "Overlord's Feast",
+    "start": "2024/09/26 11:00:00 GMT+2",
+    "end": "2024/11/04 03:59:59 GMT+2",
+    "game": "zzz"
   },
   {
     "name": "Born From a Dream",
@@ -120,9 +120,9 @@
     "game": "hi3"
   },
   {
-    "name": "Planar Fissure Event",
-    "start": "2024/09/23 05:00 GMT+2",
-    "end": "2024/09/30 04:59 GMT+2",
-    "game": "hsr"
+    "name": "Seeking a Shadow on a Shore",
+    "start": "2024/09/16 10:00 GMT+2",
+    "end": "2024/10/17 03:59 GMT+2",
+    "game": "hi3"
   }
 ]
