@@ -24,7 +24,6 @@ const timelineStart = new Date(
 const timelineEnd = new Date(
   Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 2, 0)
 );
-console.log(timelineStart, timelineEnd);
 
 //add events
 const events = [];
@@ -38,8 +37,8 @@ for (const { name, start, end, game } of eventsJSON) {
   });
   // break;
 }
-for (const { name, duration, start, game, timeLeft } of events) {
-  addEvent(name, duration, start, gameDict[game], timeLeft);
+for (const { name, start, duration, game, timeLeft } of events) {
+  addEvent(name, start, duration, gameDict[game], timeLeft);
 }
 
 //#region MONTHS
@@ -49,7 +48,6 @@ for (
   __current - timelineEnd < 0;
   __current = new Date(__current.valueOf() + DAY)
 ) {
-  console.log("CURRENT", __current);
   const dayDiv = document.createElement("div");
   dayDiv.classList.add("day");
   dayDiv.innerText = __current.getDate();
