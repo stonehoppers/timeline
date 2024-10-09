@@ -205,8 +205,8 @@
   },
   {
     "name": "Born From a Dream",
-    "start": "2024/09/05 04:00 GMT+2",
-    "end": "2024/10/17 03:59 GMT+2",
+    "start": "2024/09/05 05:00 GMT+2",
+    "end": "2024/10/17 04:59 GMT+2",
     "game": "hi3"
   },
   {
@@ -223,8 +223,14 @@
   },
   {
     "name": "Seeking a Shadow on a Shore",
-    "start": "2024/09/16 10:00 GMT+2",
-    "end": "2024/10/17 03:59 GMT+2",
+    "start": "2024/09/16 11:00 GMT+2",
+    "end": "2024/10/17 04:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Hot on the Trail",
+    "start": "2024/10/03 11:00 GMT+2",
+    "end": "2024/10/17 04:59 GMT+2",
     "game": "hi3"
   }
 ]
