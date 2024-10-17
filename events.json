@@ -244,5 +244,59 @@
     "start": "2024/10/03 11:00 GMT+2",
     "end": "2024/10/17 04:59 GMT+2",
     "game": "hi3"
+  },
+  {
+    "name": "Starry Night Gifts!",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/28 04:00 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "The First and Last War",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/28 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Wilderness Development Logs",
+    "start": "2024/10/28 04:00 GMT+2",
+    "end": "2024/11/28 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Hot on the Trail",
+    "start": "2024/11/14 04:00 GMT+2",
+    "end": "2024/11/28 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Stirring the Past",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/28 03:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Carnival Spend Bonuses",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/15 12:00 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Interplanetary Encounter",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/15 11:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Like the First Moon",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/01 11:59 GMT+2",
+    "game": "hi3"
+  },
+  {
+    "name": "Midnight Hauntings (login event)",
+    "start": "2024/10/17 12:00 GMT+2",
+    "end": "2024/11/28 03:59 GMT+2",
+    "game": "hi3"
   }
 ]
