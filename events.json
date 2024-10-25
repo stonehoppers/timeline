@@ -304,5 +304,41 @@
     "start": "2024/10/17 12:00 GMT+2",
     "end": "2024/11/28 03:59 GMT+2",
     "game": "hi3"
+  },
+  {
+    "name": "Sound Hunt Ninjutsu Inscription",
+    "start": "2024/10/25 13:00 GMT+2",
+    "end": "2024/12/02 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Mr. Cold Feet's Pop-Up Shop",
+    "start": "2024/10/31 12:00 GMT+1",
+    "end": "2024/10/31 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Shadow of the Ranger",
+    "start": "2024/11/13 04:00 GMT+1",
+    "end": "2024/12/02 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Gift of Odyssey",
+    "start": "2024/10/23 05:00 GMT+2",
+    "end": "2024/12/03 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Planar Fissure",
+    "start": "2024/11/06 04:00 GMT+1",
+    "end": "2024/11/13 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Garden of Plenty",
+    "start": "2024/11/22 04:00 GMT+1",
+    "end": "2024/11/29 03:59 GMT+1",
+    "game": "hi3"
   }
 ]
