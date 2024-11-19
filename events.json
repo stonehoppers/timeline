@@ -360,7 +360,7 @@
     "game": "hi3"
   },
   {
-    "name": "Stirring the Past",
+    "name": "📖 Stirring the Past",
     "start": "2024/10/17 12:00 GMT+2",
     "end": "2024/11/28 03:59 GMT+2",
     "game": "hi3"
@@ -393,6 +393,12 @@
     "name": "TeRiRi's Magical Quest",
     "start": "2024/11/07 10:00 GMT+1",
     "end": "2024/11/28 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Starry Night Treasures",
+    "start": "2024/11/14 10:00 GMT+1",
+    "end": "2024/11/25 11:59 GMT+1",
     "game": "hi3"
   }
 ]
