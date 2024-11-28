@@ -460,5 +460,35 @@
     "start": "2024/11/14 10:00 GMT+1",
     "end": "2024/11/25 11:59 GMT+1",
     "game": "hi3"
+  },
+  {
+    "name": "🆓 Interlude Preparations",
+    "start": "2024/11/23 10:00 GMT+1",
+    "end": "2024/12/27 11:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "A Fool's Hand",
+    "start": "2024/11/28 04:00 GMT+1",
+    "end": "2025/01/09 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "🆓 When Petals Flutter",
+    "start": "2024/11/28 04:00 GMT+1",
+    "end": "2025/01/09 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "👩 Sparkle Makes an Entrance",
+    "start": "2024/11/28 04:00 GMT+1",
+    "end": "2024/12/27 11:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "🔪 Ready to go",
+    "start": "2024/11/28 04:00 GMT+1",
+    "end": "2024/12/27 11:59 GMT+1",
+    "game": "hi3"
   }
 ]
