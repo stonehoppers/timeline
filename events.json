@@ -508,5 +508,23 @@
     "start": "2024/11/28 04:00 GMT+1",
     "end": "2024/12/27 11:59 GMT+1",
     "game": "hi3"
+  },
+  {
+    "name": "Snazzy Cards Club",
+    "start": "2024/12/18 10:00 GMT+1",
+    "end": "2025/01/09 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "📖 The One Who Chases the Stars",
+    "start": "2024/12/09 10:00 GMT+1",
+    "end": "2025/01/09 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "👗 Crane of Taixuan",
+    "start": "2024/12/06 12:00 GMT+1",
+    "end": "2024/12/20 12:00 GMT+1",
+    "game": "hi3"
   }
 ]
