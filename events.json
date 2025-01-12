@@ -667,8 +667,32 @@
   },
   {
     "name": "Snowy Night's gift",
-    "start": "2024/12/19 110:00 GMT+1",
+    "start": "2024/12/19 11:00 GMT+1",
     "end": "2024/12/29 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Shiny and Sparkling: participation",
+    "start": "2025/01/09 04:00 GMT+1",
+    "end": "2025/01/30 04:00 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Shiny and Sparkling: prize",
+    "start": "2025/01/30 12:00 GMT+1",
+    "end": "2025/02/20 04:00 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Treasure Hunt Celebration",
+    "start": "2025/01/09 04:00 GMT+1",
+    "end": "2025/01/30 11:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "📖A Reflection of Pursuit",
+    "start": "2025/01/09 04:00 GMT+1",
+    "end": "2025/02/20 03:59 GMT+1",
     "game": "hi3"
   }
 ]
