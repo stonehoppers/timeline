@@ -78,7 +78,6 @@ function addEvent(name, start, duration, timeline, timeLeft = "N/A") {
 
   const eventSpan = document.createElement("div");
   eventSpan.innerText = name;
-  eventDiv.append(eventSpan);
 
   const timeDiv = document.createElement("div");
   timeDiv.classList.add("time");
@@ -92,7 +91,12 @@ function addEvent(name, start, duration, timeline, timeLeft = "N/A") {
     timeDiv.innerText = "Expired";
     timeDiv.classList.add("expired");
   }
-  eventDiv.append(timeDiv);
+
+  const eventWrapper = document.createElement("div");
+  eventWrapper.classList.add("event-wrapper");
+  eventWrapper.append(timeDiv);
+  eventWrapper.append(eventSpan);
+  eventDiv.append(eventWrapper);
 
   timeline.append(eventDiv);
 }

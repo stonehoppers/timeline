@@ -13,7 +13,7 @@ body {
   overflow-x: scroll;
   scrollbar-width: none;
   height: 100%;
-  padding: 0 5vw;
+  padding: 0 0;
   display: grid;
   grid-template-columns: repeat(calc(92 * 48), 1px);
   grid-template-rows: min-content repeat(5, min-content);
@@ -45,7 +45,7 @@ body {
   grid-auto-rows: min-content;
   grid-auto-flow: dense;
   &#labels {
-    grid-auto-rows: 40px;
+    grid-auto-rows: 12px;
   }
   row-gap: 10px;
   .day {
@@ -58,9 +58,9 @@ body {
     color: white;
     background-color: #7289da;
     width: auto;
-    height: auto;
+    height: min-content;
     border-radius: 12px;
-    padding: 10px;
+    padding: 0.1rem 0.6rem 0.3rem;
     position: relative;
     grid-column: calc(var(--start) + 1) / calc(var(--duration) + 1);
     /* .time {
@@ -74,26 +74,36 @@ body {
     > div {
       line-height: 1rem;
       position: sticky;
-      left: 0;
+      left: 20px;
       width: max-content;
-      &.time {
-        font-size: 0.7rem;
-        color: lightgray;
+    }
+  }
+  .event-wrapper {
+    max-width: 100%;
+    /* display: flex; */
+    div:nth-child(1) {
+      width: 10ch;
+    }
+    .time {
+      font-size: 0.7rem;
+      color: lightgray;
 
-        &.expiring-7d {
-          color: yellow;
-        }
-        &.expiring-3d {
-          color: orange;
-        }
-        &.expiring-1d {
-          color: #b46946;
-        }
-        &.expired {
-          color: #6b1d1d;
-        }
+      &.expiring-7d {
+        color: yellow;
+      }
+      &.expiring-3d {
+        color: orange;
+      }
+      &.expiring-1d {
+        color: #b46946;
+      }
+      &.expired {
+        color: #6b1d1d;
       }
     }
+    /* div:nth-child(2) {
+      overflow: none;
+    } */
   }
 }
 .timeline-label {
@@ -103,7 +113,7 @@ body {
   grid-column: 1/-1;
   > span {
     position: sticky;
-    left: -10px;
+    left: 10px;
   }
 }
 
