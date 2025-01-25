@@ -192,6 +192,18 @@
     "game": "genshin"
   },
   {
+    "name": "🆓May Fortune Find You",
+    "start": "2025/01/22 04:00 GMT+1",
+    "end": "2025/02/11 14:59 GMT+1",
+    "game": "genshin"
+  },
+  {
+    "name": "Springtime Charms",
+    "start": "2025/01/24 10:00 GMT+1",
+    "end": "2025/02/09 03:59 GMT+1",
+    "game": "genshin"
+  },
+  {
     "name": "Luminary Wardance",
     "start": "2024/09/10 05:00 GMT+2",
     "end": "2024/10/21 04:59 GMT+2",
@@ -267,6 +279,18 @@
     "name": "Planar Fissure",
     "start": "2024/12/18 04:00 GMT+1",
     "end": "2024/12/25 03:59 GMT+1",
+    "game": "hsr"
+  },
+  {
+    "name": "Illia Travelogue",
+    "start": "2025/01/15 04:00 GMT+1",
+    "end": "2025/02/24 03:59 GMT+1",
+    "game": "hsr"
+  },
+  {
+    "name": "Hypogeum Enigma",
+    "start": "2025/01/22 12:00 GMT+1",
+    "end": "2025/02/24 03:59 GMT+1",
     "game": "hsr"
   },
   {
@@ -516,6 +540,96 @@
     "game": "zzz"
   },
   {
+    "name": "🆓Brilliant Overture",
+    "start": "2025/01/22 10:00 GMT+1",
+    "end": "2025/03/11 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Harmonic Pact",
+    "start": "2025/01/22 10:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "The Troubles of Ellen the Shark",
+    "start": "2025/01/22 10:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "The Day of Brilliant Wishes",
+    "start": "2025/01/23 10:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "A Dream Come True at Last",
+    "start": "2025/01/24 10:00 GMT+1",
+    "end": "2025/02/05 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Godfinger Ultimate Showdown",
+    "start": "2025/01/28 10:00 GMT+1",
+    "end": "2025/02/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "🆓New Year Gift",
+    "start": "2025/01/29 10:00 GMT+1",
+    "end": "2025/03/11 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Click Click Hollow Reporter",
+    "start": "2025/02/02 10:00 GMT+1",
+    "end": "2025/02/17 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Advanced Bounty: Routine Cleanup",
+    "start": "2025/02/07 04:00 GMT+1",
+    "end": "2025/02/12 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "En-Nah Into Your Lap",
+    "start": "2025/02/12 10:00 GMT+1",
+    "end": "2025/03/11 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Elpis Ultimate Angler Championship",
+    "start": "2025/02/14 10:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Hollow Zero: Cleanse Calamity",
+    "start": "2025/02/17 04:00 GMT+1",
+    "end": "2025/03/03 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Today's Recommended Film",
+    "start": "2025/02/21 10:00 GMT+1",
+    "end": "2025/03/03 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "141 Going Green For Everyone",
+    "start": "2025/02/26 10:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
+    "name": "Data Bounty: Combat Simulation",
+    "start": "2025/03/05 04:00 GMT+1",
+    "end": "2025/03/10 03:59 GMT+1",
+    "game": "zzz"
+  },
+  {
     "name": "Born From a Dream",
     "start": "2024/09/05 05:00 GMT+2",
     "end": "2024/10/17 04:59 GMT+2",
@@ -692,6 +806,12 @@
   {
     "name": "📖A Reflection of Pursuit",
     "start": "2025/01/09 04:00 GMT+1",
+    "end": "2025/02/20 03:59 GMT+1",
+    "game": "hi3"
+  },
+  {
+    "name": "Countdown: To Sweet Dreams!",
+    "start": "2025/01/16 10:00 GMT+1",
     "end": "2025/02/20 03:59 GMT+1",
     "game": "hi3"
   }
