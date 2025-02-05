@@ -55,6 +55,7 @@ body {
     grid-row-start: 1;
   }
   .event {
+    contain: paint;
     color: white;
     background-color: #7289da;
     width: auto;
