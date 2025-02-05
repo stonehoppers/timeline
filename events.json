@@ -204,6 +204,12 @@
     "game": "genshin"
   },
   {
+    "name": "Overflowing Abundance",
+    "start": "2025/02/03 04:00 GMT+1",
+    "end": "2025/02/10 03:59 GMT+1",
+    "game": "genshin"
+  },
+  {
     "name": "Luminary Wardance",
     "start": "2024/09/10 05:00 GMT+2",
     "end": "2024/10/21 04:59 GMT+2",
@@ -290,6 +296,12 @@
   {
     "name": "Hypogeum Enigma",
     "start": "2025/01/22 12:00 GMT+1",
+    "end": "2025/02/24 03:59 GMT+1",
+    "game": "hsr"
+  },
+  {
+    "name": "Enscrolled Crepusculum",
+    "start": "2025/02/03 12:00 GMT+1",
     "end": "2025/02/24 03:59 GMT+1",
     "game": "hsr"
   },
