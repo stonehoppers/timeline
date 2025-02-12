@@ -67,7 +67,7 @@ nowDiv.style.setProperty("--now", daysDiff(timelineStart, now));
 nowDiv.scrollIntoView({
   behavior: "smooth",
   // block: "start",
-  inline: "center",
+  inline: "start",
 });
 
 //#region FUNCTIONS

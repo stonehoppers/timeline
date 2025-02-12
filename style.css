@@ -83,7 +83,10 @@ body {
     max-width: 100%;
     /* display: flex; */
     div:nth-child(1) {
-      width: 10ch;
+      max-width: 10ch;
+      width: min-content;
+      position: sticky;
+      left: inherit;
     }
     .time {
       font-size: 0.7rem;
@@ -138,6 +141,7 @@ body {
   position: relative;
   left: calc(1px * var(--now));
   z-index: 200;
+  scroll-margin-left: 100px;
 }
 
 nav {
