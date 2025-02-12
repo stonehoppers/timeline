@@ -27,15 +27,17 @@ const timelineEnd = new Date(
 
 //add events
 const events = [];
-for (const { name, start, end, game } of eventsJSON) {
-  events.push({
-    name,
-    game,
-    start: daysDiff(timelineStart, new Date(start)),
-    duration: daysDiff(timelineStart, new Date(end)),
-    timeLeft: new Date(end) - now,
-  });
-  // break;
+for (const [game, event] of Object.entries(eventsJSON)) {
+  for (const { name, start, end } of event) {
+    events.push({
+      name,
+      game,
+      start: daysDiff(timelineStart, new Date(start)),
+      duration: daysDiff(timelineStart, new Date(end)),
+      timeLeft: new Date(end) - now,
+    });
+    // break;
+  }
 }
 for (const { name, start, duration, game, timeLeft } of events) {
   addEvent(name, start, duration, gameDict[game], timeLeft);

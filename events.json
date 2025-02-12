@@ -1,836 +1,705 @@
-[
-  {
-    "name": "Traces of Artistry",
-    "start": "2024/08/28 05:00 GMT+2",
-    "end": "2024/09/16 04:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Where the Springs Return",
-    "start": "2024/08/28 05:00 GMT+2",
-    "end": "2024/09/17 18:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Flowers Resplendent on the Sun-Scorched Sojourn",
-    "start": "2024/08/28 05:00 GMT+2",
-    "end": "2024/10/08 15:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Brillant Dawn",
-    "start": "2024/08/30 05:00 GMT+2",
-    "end": "2024/09/18 04:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Dodoco's Boom-Bastic Escapades",
-    "start": "2024/09/09 05:00 GMT+2",
-    "end": "2024/09/23 04:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Ley Line Overflow",
-    "start": "2024/09/16 05:00:00 GMT+2",
-    "end": "2024/09/23 04:59:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Yupanqui's Turnfire",
-    "start": "2024/09/17 19:00 GMT+2",
-    "end": "2024/10/08 15:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Of Thorns and Crowns",
-    "start": "2024/09/20 11:00:00 GMT+2",
-    "end": "2024/09/30 04:59:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Gift for a New Horizon",
-    "start": "2024/09/28 01:00:00 GMT+2",
-    "end": "2024/10/08 23:59:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Mementos of Teyvat",
-    "start": "2024/09/28 11:00:00 GMT+2",
-    "end": "2024/10/08 04:59:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "5.1",
-    "start": "2024/10/09 00:00 GMT+2",
-    "end": "2024/10/09 05:00 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Aphid Treasure Trace",
-    "start": "2024/10/10 11:00 GMT+2",
-    "end": "2024/10/21 04:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "🧭 Land of Vibrant Stone and Flaming Springs",
-    "start": "2024/10/09 05:00 GMT+2",
-    "end": "2024/12/31 15:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "The Rainbow Destined to Burn",
-    "start": "2024/10/09 05:00 GMT+2",
-    "end": "2024/11/19 15:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "A Prayer for Blessings, Told to Crested Peaks",
-    "start": "2024/10/09 05:00 GMT+2",
-    "end": "2024/10/29 17:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Reminiscent Regimen: Thrill",
-    "start": "2024/10/17 11:00 GMT+2",
-    "end": "2024/10/28 04:59 GMT+2",
-    "game": "genshin"
-  },
-  {
-    "name": "Chromatic Ode of Candies and Roses",
-    "start": "2024/10/23 11:00 GMT+2",
-    "end": "2024/11/07 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Feast of Pursuit",
-    "start": "2024/11/01 10:00 GMT+1",
-    "end": "2024/11/15 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Marvelous Merchandise",
-    "start": "2024/11/11 10:00 GMT+1",
-    "end": "2024/11/18 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "👥 Of Fading Flowers and Falling Feathers",
-    "start": "2024/11/20 04:00 GMT+1",
-    "end": "2024/12/10 17:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "🧭 Facing the Windborne Cliff and City of Flowing Ash",
-    "start": "2024/11/20 04:00 GMT+1",
-    "end": "2025/02/11 14:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "'Claw Convoy' Animal Seeking Challenges",
-    "start": "2024/11/22 10:00 GMT+1",
-    "end": "2024/12/02 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Iktomi Spiritseeking Scrolls",
-    "start": "2024/11/28 10:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Adventurer's Trials: Metamorphosis",
-    "start": "2024/12/11 10:00 GMT+1",
-    "end": "2024/12/23 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Exercise Surging Storm",
-    "start": "2024/12/18 10:00 GMT+1",
-    "end": "2024/12/30 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Ley Line Overflow",
-    "start": "2024/12/23 04:00 GMT+1",
-    "end": "2024/12/30 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "📖Incandescent Ode of Resurrection",
-    "start": "2025/01/01 05:00 GMT+1",
-    "end": "2025/02/11 14:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "👥As the Blazing Sun",
-    "start": "2025/01/01 05:00 GMT+1",
-    "end": "2025/01/21 17:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "👥Memories Flowing With Color",
-    "start": "2025/01/01 05:00 GMT+1",
-    "end": "2025/01/21 17:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Shuyu's Baffling Beetle Battle Bowl",
-    "start": "2025/01/03 10:00 GMT+1",
-    "end": "2025/01/13 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Emblem of Steadfast Valor",
-    "start": "2025/01/09 10:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "On the Trail of Behemoths",
-    "start": "2025/01/14 10:00 GMT+1",
-    "end": "2025/01/27 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "🆓May Fortune Find You",
-    "start": "2025/01/22 04:00 GMT+1",
-    "end": "2025/02/11 14:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Springtime Charms",
-    "start": "2025/01/24 10:00 GMT+1",
-    "end": "2025/02/09 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Overflowing Abundance",
-    "start": "2025/02/03 04:00 GMT+1",
-    "end": "2025/02/10 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Enchanted Tales of the Mikawa Festival",
-    "start": "2025/02/14 10:00 GMT+1",
-    "end": "2025/03/03 03:59 GMT+1",
-    "game": "genshin"
-  },
-  {
-    "name": "Luminary Wardance",
-    "start": "2024/09/10 05:00 GMT+2",
-    "end": "2024/10/21 04:59 GMT+2",
-    "game": "hsr"
-  },
-  {
-    "name": "Planar Fissure Event",
-    "start": "2024/09/23 05:00 GMT+2",
-    "end": "2024/09/30 04:59 GMT+2",
-    "game": "hsr"
-  },
-  {
-    "name": "Festive Revelry",
-    "start": "2024/09/30 13:00 GMT+2",
-    "end": "2024/10/21 04:59 GMT+2",
-    "game": "hsr"
-  },
-  {
-    "name": "Realm of the Strange",
-    "start": "2024/10/11 05:00 GMT+2",
-    "end": "2024/10/18 04:59 GMT+2",
-    "game": "hsr"
-  },
-  {
-    "name": "Sound Hunt Ninjutsu Inscription",
-    "start": "2024/10/25 13:00 GMT+2",
-    "end": "2024/12/02 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Mr. Cold Feet's Pop-Up Shop",
-    "start": "2024/10/31 12:00 GMT+1",
-    "end": "2024/11/11 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Shadow of the Ranger",
-    "start": "2024/11/13 04:00 GMT+1",
-    "end": "2024/12/02 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Gift of Odyssey",
-    "start": "2024/10/23 05:00 GMT+2",
-    "end": "2024/12/03 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Planar Fissure",
-    "start": "2024/11/06 04:00 GMT+1",
-    "end": "2024/11/13 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Cosmic Home Décor Guide",
-    "start": "2024/12/04 04:00 GMT+1",
-    "end": "2025/01/13 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Garden of Plenty",
-    "start": "2024/11/22 04:00 GMT+1",
-    "end": "2024/11/29 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Between the Frames",
-    "start": "2024/12/25 12:00 GMT+1",
-    "end": "2025/01/06 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Planar Fissure",
-    "start": "2024/12/18 04:00 GMT+1",
-    "end": "2024/12/25 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Illia Travelogue",
-    "start": "2025/01/15 04:00 GMT+1",
-    "end": "2025/02/24 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Hypogeum Enigma",
-    "start": "2025/01/22 12:00 GMT+1",
-    "end": "2025/02/24 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Enscrolled Crepusculum",
-    "start": "2025/02/03 12:00 GMT+1",
-    "end": "2025/02/24 03:59 GMT+1",
-    "game": "hsr"
-  },
-  {
-    "name": "Camelia Golden Week",
-    "start": "2024/08/21 11:00 GMT+2",
-    "end": "2024/09/23 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "\"En-Nah\" Into Your Lap",
-    "start": "2024/09/04 11:00 GMT+2",
-    "end": "2024/09/24 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Immersive Tactical Drill",
-    "start": "2024/09/06 11:00 GMT+2",
-    "end": "2024/09/16 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Scene One, Shot One!",
-    "start": "2024/09/13 11:00 GMT+2",
-    "end": "2024/09/23 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Coffee Sorcery: Tuning",
-    "start": "2024/09/18 05:00:00 GMT+2",
-    "end": "2024/09/23 04:59:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "All-New Program",
-    "start": "2024/09/25 05:00:00 GMT+2",
-    "end": "2024/11/05 03:59:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Ember-Crowned Overlord & Dissonant Sonata",
-    "start": "2024/09/25 05:00:00 GMT+2",
-    "end": "2024/10/16 03:59:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Overlord's Feast",
-    "start": "2024/09/26 11:00:00 GMT+2",
-    "end": "2024/11/04 03:59:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Don't Walk Alone",
-    "start": "2024/09/30 11:00 GMT+2",
-    "end": "2024/10/14 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "\"En-Nah\" Into Your Lap",
-    "start": "2024/10/16 11:00 GMT+2",
-    "end": "2024/11/05 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Data Bounty: Combat Simulation",
-    "start": "2024/09/30 05:00 GMT+2",
-    "end": "2024/10/15 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Ridu for You",
-    "start": "2024/10/07 11:00 GMT+2",
-    "end": "2024/10/21 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Roaming the Ether",
-    "start": "2024/10/16 11:00 GMT+2",
-    "end": "2024/10/28 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Advanced Bounty: Routine Cleanup",
-    "start": "2024/10/21 05:00 GMT+2",
-    "end": "2024/10/26 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "141 Friendship Fair",
-    "start": "2024/10/27 11:00 GMT+2",
-    "end": "2024/11/04 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "Vicious Dogs Within",
-    "start": "2024/10/25 11:00 GMT+2",
-    "end": "2024/11/01 04:59 GMT+2",
-    "game": "zzz"
-  },
-  {
-    "name": "🎲Moonlight Serenity&Dissonant Sonata",
-    "start": "2024/11/06 04:00 GMT+1",
-    "end": "2024/11/27 11:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "∞ The Mystery of Arpeggio Fault",
-    "start": "2024/11/06 04:00 GMT+1",
-    "end": "2024/12/17 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Moonlight Traces",
-    "start": "2024/11/06 04:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓All-New Prgram",
-    "start": "2024/11/06 04:00 GMT+1",
-    "end": "2024/12/17 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Virtual Battlefield Mayhem",
-    "start": "2024/11/11 10:00 GMT+1",
-    "end": "2024/11/25 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "En-Nah assitant program",
-    "start": "2024/11/16 10:00 GMT+1",
-    "end": "2024/12/02 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Data Bounty: Combat Simulation",
-    "start": "2024/11/22 04:00 GMT+1",
-    "end": "2024/11/27 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "'En-Nah' Into Your Lap",
-    "start": "2024/11/27 10:00 GMT+1",
-    "end": "2024/12/17 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "The Champion",
-    "start": "2024/11/27 12:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Help Kai",
-    "start": "2024/12/02 04:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "When Sandwiches Come A Knockin'",
-    "start": "2024/12/04 10:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Advanced Bounty: Routine Cleanup",
-    "start": "2024/12/11 04:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓All-New Program",
-    "start": "2024/12/18 04:00 GMT+1",
-    "end": "2025/03/11 22:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓Special Visitor",
-    "start": "2024/12/18 04:00 GMT+1",
-    "end": "2025/01/21 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Bangboo vs Ethereal",
-    "start": "2024/12/20 10:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Where the Stars Shine Bright",
-    "start": "2024/12/23 10:00 GMT+1",
-    "end": "2025/01/06 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Data Bounty: Combat Simulation",
-    "start": "2024/12/25 04:00 GMT+1",
-    "end": "2024/12/30 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Into That Pale Wasteland",
-    "start": "2024/12/27 10:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Windchaser Harumasa",
-    "start": "2024/12/30 10:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓'En-Nah' Into Your Lap",
-    "start": "2025/01/01 10:00 GMT+1",
-    "end": "2025/01/21 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Combat Footage Review",
-    "start": "2025/01/03 10:00 GMT+1",
-    "end": "2025/01/13 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Collab Designer",
-    "start": "2025/01/09 04:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Before the Curtain Rises",
-    "start": "2025/01/13 10:00 GMT+1",
-    "end": "2025/01/29 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Advanced Bounty: Routine Cleanup",
-    "start": "2025/01/15 04:00 GMT+1",
-    "end": "2025/01/20 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Help Kai",
-    "start": "2024/12/02 04:00 GMT+1",
-    "end": "2024/12/16 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓Brilliant Overture",
-    "start": "2025/01/22 10:00 GMT+1",
-    "end": "2025/03/11 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Harmonic Pact",
-    "start": "2025/01/22 10:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "The Troubles of Ellen the Shark",
-    "start": "2025/01/22 10:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "The Day of Brilliant Wishes",
-    "start": "2025/01/23 10:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "A Dream Come True at Last",
-    "start": "2025/01/24 10:00 GMT+1",
-    "end": "2025/02/05 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Godfinger Ultimate Showdown",
-    "start": "2025/01/28 10:00 GMT+1",
-    "end": "2025/02/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "🆓New Year Gift",
-    "start": "2025/01/29 10:00 GMT+1",
-    "end": "2025/03/11 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Click Click Hollow Reporter",
-    "start": "2025/02/02 10:00 GMT+1",
-    "end": "2025/02/17 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Advanced Bounty: Routine Cleanup",
-    "start": "2025/02/07 04:00 GMT+1",
-    "end": "2025/02/12 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "En-Nah Into Your Lap",
-    "start": "2025/02/12 10:00 GMT+1",
-    "end": "2025/03/11 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Elpis Ultimate Angler Championship",
-    "start": "2025/02/14 10:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Hollow Zero: Cleanse Calamity",
-    "start": "2025/02/17 04:00 GMT+1",
-    "end": "2025/03/03 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Today's Recommended Film",
-    "start": "2025/02/21 10:00 GMT+1",
-    "end": "2025/03/03 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "141 Going Green For Everyone",
-    "start": "2025/02/26 10:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Data Bounty: Combat Simulation",
-    "start": "2025/03/05 04:00 GMT+1",
-    "end": "2025/03/10 03:59 GMT+1",
-    "game": "zzz"
-  },
-  {
-    "name": "Born From a Dream",
-    "start": "2024/09/05 05:00 GMT+2",
-    "end": "2024/10/17 04:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Work Expert",
-    "start": "2024/09/05 04:00 GMT+2",
-    "end": "2024/10/04 11:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Ready to Go",
-    "start": "2024/09/05 04:00 GMT+2",
-    "end": "2024/10/04 11:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Seeking a Shadow on a Shore",
-    "start": "2024/09/16 11:00 GMT+2",
-    "end": "2024/10/17 04:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Hot on the Trail",
-    "start": "2024/10/03 11:00 GMT+2",
-    "end": "2024/10/17 04:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Starry Night Gifts!",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/28 04:00 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "The First and Last War",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/28 03:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Wilderness Development Logs",
-    "start": "2024/10/28 04:00 GMT+2",
-    "end": "2024/11/28 03:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Hot on the Trail",
-    "start": "2024/11/14 04:00 GMT+2",
-    "end": "2024/11/28 03:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "📖 Stirring the Past",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/28 03:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Carnival Spend Bonuses",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/15 12:00 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Interplanetary Encounter",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/15 11:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Like the First Moon",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/01 11:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "Midnight Hauntings (login event)",
-    "start": "2024/10/17 12:00 GMT+2",
-    "end": "2024/11/28 03:59 GMT+2",
-    "game": "hi3"
-  },
-  {
-    "name": "TeRiRi's Magical Quest",
-    "start": "2024/11/07 10:00 GMT+1",
-    "end": "2024/11/28 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Starry Night Treasures",
-    "start": "2024/11/14 10:00 GMT+1",
-    "end": "2024/11/25 11:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "🆓 Interlude Preparations",
-    "start": "2024/11/23 10:00 GMT+1",
-    "end": "2024/12/27 11:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "A Fool's Hand",
-    "start": "2024/11/28 04:00 GMT+1",
-    "end": "2025/01/09 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "🆓 When Petals Flutter",
-    "start": "2024/11/28 04:00 GMT+1",
-    "end": "2025/01/09 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "👩 Sparkle Makes an Entrance",
-    "start": "2024/11/28 04:00 GMT+1",
-    "end": "2024/12/27 11:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "🔪 Ready to go",
-    "start": "2024/11/28 04:00 GMT+1",
-    "end": "2024/12/27 11:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Snazzy Cards Club",
-    "start": "2024/12/16 10:00 GMT+1",
-    "end": "2025/01/16 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "📖 The One Who Chases the Stars",
-    "start": "2024/12/09 10:00 GMT+1",
-    "end": "2025/01/09 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "👗 Crane of Taixuan",
-    "start": "2024/12/06 12:00 GMT+1",
-    "end": "2024/12/20 12:00 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Powered Duo",
-    "start": "2024/12/26 10:00 GMT+1",
-    "end": "2025/01/09 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Snowy Night's gift",
-    "start": "2024/12/19 11:00 GMT+1",
-    "end": "2024/12/29 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Shiny and Sparkling: participation",
-    "start": "2025/01/09 04:00 GMT+1",
-    "end": "2025/01/30 04:00 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Shiny and Sparkling: prize",
-    "start": "2025/01/30 12:00 GMT+1",
-    "end": "2025/02/20 04:00 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Treasure Hunt Celebration",
-    "start": "2025/01/09 04:00 GMT+1",
-    "end": "2025/01/30 11:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "📖A Reflection of Pursuit",
-    "start": "2025/01/09 04:00 GMT+1",
-    "end": "2025/02/20 03:59 GMT+1",
-    "game": "hi3"
-  },
-  {
-    "name": "Countdown: To Sweet Dreams!",
-    "start": "2025/01/16 10:00 GMT+1",
-    "end": "2025/02/20 03:59 GMT+1",
-    "game": "hi3"
-  }
-]
+{
+  "hi3": [
+    {
+      "name": "Born From a Dream",
+      "start": "2024/09/05 05:00 GMT+2",
+      "end": "2024/10/17 04:59 GMT+2"
+    },
+    {
+      "name": "Work Expert",
+      "start": "2024/09/05 04:00 GMT+2",
+      "end": "2024/10/04 11:59 GMT+2"
+    },
+    {
+      "name": "Ready to Go",
+      "start": "2024/09/05 04:00 GMT+2",
+      "end": "2024/10/04 11:59 GMT+2"
+    },
+    {
+      "name": "Seeking a Shadow on a Shore",
+      "start": "2024/09/16 11:00 GMT+2",
+      "end": "2024/10/17 04:59 GMT+2"
+    },
+    {
+      "name": "Hot on the Trail",
+      "start": "2024/10/03 11:00 GMT+2",
+      "end": "2024/10/17 04:59 GMT+2"
+    },
+    {
+      "name": "Starry Night Gifts!",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/28 04:00 GMT+2"
+    },
+    {
+      "name": "The First and Last War",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/28 03:59 GMT+2"
+    },
+    {
+      "name": "Wilderness Development Logs",
+      "start": "2024/10/28 04:00 GMT+2",
+      "end": "2024/11/28 03:59 GMT+2"
+    },
+    {
+      "name": "Hot on the Trail",
+      "start": "2024/11/14 04:00 GMT+2",
+      "end": "2024/11/28 03:59 GMT+2"
+    },
+    {
+      "name": "📖 Stirring the Past",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/28 03:59 GMT+2"
+    },
+    {
+      "name": "Carnival Spend Bonuses",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/15 12:00 GMT+2"
+    },
+    {
+      "name": "Interplanetary Encounter",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/15 11:59 GMT+2"
+    },
+    {
+      "name": "Like the First Moon",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/01 11:59 GMT+2"
+    },
+    {
+      "name": "Midnight Hauntings (login event)",
+      "start": "2024/10/17 12:00 GMT+2",
+      "end": "2024/11/28 03:59 GMT+2"
+    },
+    {
+      "name": "TeRiRi's Magical Quest",
+      "start": "2024/11/07 10:00 GMT+1",
+      "end": "2024/11/28 03:59 GMT+1"
+    },
+    {
+      "name": "Starry Night Treasures",
+      "start": "2024/11/14 10:00 GMT+1",
+      "end": "2024/11/25 11:59 GMT+1"
+    },
+    {
+      "name": "🆓 Interlude Preparations",
+      "start": "2024/11/23 10:00 GMT+1",
+      "end": "2024/12/27 11:59 GMT+1"
+    },
+    {
+      "name": "A Fool's Hand",
+      "start": "2024/11/28 04:00 GMT+1",
+      "end": "2025/01/09 03:59 GMT+1"
+    },
+    {
+      "name": "🆓 When Petals Flutter",
+      "start": "2024/11/28 04:00 GMT+1",
+      "end": "2025/01/09 03:59 GMT+1"
+    },
+    {
+      "name": "👩 Sparkle Makes an Entrance",
+      "start": "2024/11/28 04:00 GMT+1",
+      "end": "2024/12/27 11:59 GMT+1"
+    },
+    {
+      "name": "🔪 Ready to go",
+      "start": "2024/11/28 04:00 GMT+1",
+      "end": "2024/12/27 11:59 GMT+1"
+    },
+    {
+      "name": "Snazzy Cards Club",
+      "start": "2024/12/16 10:00 GMT+1",
+      "end": "2025/01/16 03:59 GMT+1"
+    },
+    {
+      "name": "📖 The One Who Chases the Stars",
+      "start": "2024/12/09 10:00 GMT+1",
+      "end": "2025/01/09 03:59 GMT+1"
+    },
+    {
+      "name": "👗 Crane of Taixuan",
+      "start": "2024/12/06 12:00 GMT+1",
+      "end": "2024/12/20 12:00 GMT+1"
+    },
+    {
+      "name": "Powered Duo",
+      "start": "2024/12/26 10:00 GMT+1",
+      "end": "2025/01/09 03:59 GMT+1"
+    },
+    {
+      "name": "Snowy Night's gift",
+      "start": "2024/12/19 11:00 GMT+1",
+      "end": "2024/12/29 03:59 GMT+1"
+    },
+    {
+      "name": "Shiny and Sparkling: participation",
+      "start": "2025/01/09 04:00 GMT+1",
+      "end": "2025/01/30 04:00 GMT+1"
+    },
+    {
+      "name": "Shiny and Sparkling: prize",
+      "start": "2025/01/30 12:00 GMT+1",
+      "end": "2025/02/20 04:00 GMT+1"
+    },
+    {
+      "name": "Treasure Hunt Celebration",
+      "start": "2025/01/09 04:00 GMT+1",
+      "end": "2025/01/30 11:59 GMT+1"
+    },
+    {
+      "name": "📖A Reflection of Pursuit",
+      "start": "2025/01/09 04:00 GMT+1",
+      "end": "2025/02/20 03:59 GMT+1"
+    },
+    {
+      "name": "Countdown: To Sweet Dreams!",
+      "start": "2025/01/16 10:00 GMT+1",
+      "end": "2025/02/20 03:59 GMT+1"
+    }
+  ],
+  "genshin": [
+    {
+      "name": "Traces of Artistry",
+      "start": "2024/08/28 05:00 GMT+2",
+      "end": "2024/09/16 04:59 GMT+2"
+    },
+    {
+      "name": "Where the Springs Return",
+      "start": "2024/08/28 05:00 GMT+2",
+      "end": "2024/09/17 18:59 GMT+2"
+    },
+    {
+      "name": "Flowers Resplendent on the Sun-Scorched Sojourn",
+      "start": "2024/08/28 05:00 GMT+2",
+      "end": "2024/10/08 15:59 GMT+2"
+    },
+    {
+      "name": "Brillant Dawn",
+      "start": "2024/08/30 05:00 GMT+2",
+      "end": "2024/09/18 04:59 GMT+2"
+    },
+    {
+      "name": "Dodoco's Boom-Bastic Escapades",
+      "start": "2024/09/09 05:00 GMT+2",
+      "end": "2024/09/23 04:59 GMT+2"
+    },
+    {
+      "name": "Ley Line Overflow",
+      "start": "2024/09/16 05:00:00 GMT+2",
+      "end": "2024/09/23 04:59:59 GMT+2"
+    },
+    {
+      "name": "Yupanqui's Turnfire",
+      "start": "2024/09/17 19:00 GMT+2",
+      "end": "2024/10/08 15:59 GMT+2"
+    },
+    {
+      "name": "Of Thorns and Crowns",
+      "start": "2024/09/20 11:00:00 GMT+2",
+      "end": "2024/09/30 04:59:59 GMT+2"
+    },
+    {
+      "name": "Gift for a New Horizon",
+      "start": "2024/09/28 01:00:00 GMT+2",
+      "end": "2024/10/08 23:59:59 GMT+2"
+    },
+    {
+      "name": "Mementos of Teyvat",
+      "start": "2024/09/28 11:00:00 GMT+2",
+      "end": "2024/10/08 04:59:59 GMT+2"
+    },
+    {
+      "name": "5.1",
+      "start": "2024/10/09 00:00 GMT+2",
+      "end": "2024/10/09 05:00 GMT+2"
+    },
+    {
+      "name": "Aphid Treasure Trace",
+      "start": "2024/10/10 11:00 GMT+2",
+      "end": "2024/10/21 04:59 GMT+2"
+    },
+    {
+      "name": "🧭 Land of Vibrant Stone and Flaming Springs",
+      "start": "2024/10/09 05:00 GMT+2",
+      "end": "2024/12/31 15:59 GMT+2"
+    },
+    {
+      "name": "The Rainbow Destined to Burn",
+      "start": "2024/10/09 05:00 GMT+2",
+      "end": "2024/11/19 15:59 GMT+2"
+    },
+    {
+      "name": "A Prayer for Blessings, Told to Crested Peaks",
+      "start": "2024/10/09 05:00 GMT+2",
+      "end": "2024/10/29 17:59 GMT+1"
+    },
+    {
+      "name": "Reminiscent Regimen: Thrill",
+      "start": "2024/10/17 11:00 GMT+2",
+      "end": "2024/10/28 04:59 GMT+2"
+    },
+    {
+      "name": "Chromatic Ode of Candies and Roses",
+      "start": "2024/10/23 11:00 GMT+2",
+      "end": "2024/11/07 03:59 GMT+1"
+    },
+    {
+      "name": "Feast of Pursuit",
+      "start": "2024/11/01 10:00 GMT+1",
+      "end": "2024/11/15 03:59 GMT+1"
+    },
+    {
+      "name": "Marvelous Merchandise",
+      "start": "2024/11/11 10:00 GMT+1",
+      "end": "2024/11/18 03:59 GMT+1"
+    },
+    {
+      "name": "👥 Of Fading Flowers and Falling Feathers",
+      "start": "2024/11/20 04:00 GMT+1",
+      "end": "2024/12/10 17:59 GMT+1"
+    },
+    {
+      "name": "🧭 Facing the Windborne Cliff and City of Flowing Ash",
+      "start": "2024/11/20 04:00 GMT+1",
+      "end": "2025/02/11 14:59 GMT+1"
+    },
+    {
+      "name": "'Claw Convoy' Animal Seeking Challenges",
+      "start": "2024/11/22 10:00 GMT+1",
+      "end": "2024/12/02 03:59 GMT+1"
+    },
+    {
+      "name": "Iktomi Spiritseeking Scrolls",
+      "start": "2024/11/28 10:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "Adventurer's Trials: Metamorphosis",
+      "start": "2024/12/11 10:00 GMT+1",
+      "end": "2024/12/23 03:59 GMT+1"
+    },
+    {
+      "name": "Exercise Surging Storm",
+      "start": "2024/12/18 10:00 GMT+1",
+      "end": "2024/12/30 03:59 GMT+1"
+    },
+    {
+      "name": "Ley Line Overflow",
+      "start": "2024/12/23 04:00 GMT+1",
+      "end": "2024/12/30 03:59 GMT+1"
+    },
+    {
+      "name": "📖Incandescent Ode of Resurrection",
+      "start": "2025/01/01 05:00 GMT+1",
+      "end": "2025/02/11 14:59 GMT+1"
+    },
+    {
+      "name": "👥As the Blazing Sun",
+      "start": "2025/01/01 05:00 GMT+1",
+      "end": "2025/01/21 17:59 GMT+1"
+    },
+    {
+      "name": "👥Memories Flowing With Color",
+      "start": "2025/01/01 05:00 GMT+1",
+      "end": "2025/01/21 17:59 GMT+1"
+    },
+    {
+      "name": "Shuyu's Baffling Beetle Battle Bowl",
+      "start": "2025/01/03 10:00 GMT+1",
+      "end": "2025/01/13 03:59 GMT+1"
+    },
+    {
+      "name": "Emblem of Steadfast Valor",
+      "start": "2025/01/09 10:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "On the Trail of Behemoths",
+      "start": "2025/01/14 10:00 GMT+1",
+      "end": "2025/01/27 03:59 GMT+1"
+    },
+    {
+      "name": "🆓May Fortune Find You",
+      "start": "2025/01/22 04:00 GMT+1",
+      "end": "2025/02/11 14:59 GMT+1"
+    },
+    {
+      "name": "Springtime Charms",
+      "start": "2025/01/24 10:00 GMT+1",
+      "end": "2025/02/09 03:59 GMT+1"
+    },
+    {
+      "name": "Overflowing Abundance",
+      "start": "2025/02/03 04:00 GMT+1",
+      "end": "2025/02/10 03:59 GMT+1"
+    },
+    {
+      "name": "Enchanted Tales of the Mikawa Festival",
+      "start": "2025/02/14 10:00 GMT+1",
+      "end": "2025/03/03 03:59 GMT+1"
+    }
+  ],
+  "hsr": [
+    {
+      "name": "Luminary Wardance",
+      "start": "2024/09/10 05:00 GMT+2",
+      "end": "2024/10/21 04:59 GMT+2"
+    },
+    {
+      "name": "Planar Fissure Event",
+      "start": "2024/09/23 05:00 GMT+2",
+      "end": "2024/09/30 04:59 GMT+2"
+    },
+    {
+      "name": "Festive Revelry",
+      "start": "2024/09/30 13:00 GMT+2",
+      "end": "2024/10/21 04:59 GMT+2"
+    },
+    {
+      "name": "Realm of the Strange",
+      "start": "2024/10/11 05:00 GMT+2",
+      "end": "2024/10/18 04:59 GMT+2"
+    },
+    {
+      "name": "Sound Hunt Ninjutsu Inscription",
+      "start": "2024/10/25 13:00 GMT+2",
+      "end": "2024/12/02 03:59 GMT+1"
+    },
+    {
+      "name": "Mr. Cold Feet's Pop-Up Shop",
+      "start": "2024/10/31 12:00 GMT+1",
+      "end": "2024/11/11 03:59 GMT+1"
+    },
+    {
+      "name": "Shadow of the Ranger",
+      "start": "2024/11/13 04:00 GMT+1",
+      "end": "2024/12/02 03:59 GMT+1"
+    },
+    {
+      "name": "Gift of Odyssey",
+      "start": "2024/10/23 05:00 GMT+2",
+      "end": "2024/12/03 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2024/11/06 04:00 GMT+1",
+      "end": "2024/11/13 03:59 GMT+1"
+    },
+    {
+      "name": "Cosmic Home Décor Guide",
+      "start": "2024/12/04 04:00 GMT+1",
+      "end": "2025/01/13 03:59 GMT+1"
+    },
+    {
+      "name": "Garden of Plenty",
+      "start": "2024/11/22 04:00 GMT+1",
+      "end": "2024/11/29 03:59 GMT+1"
+    },
+    {
+      "name": "Between the Frames",
+      "start": "2024/12/25 12:00 GMT+1",
+      "end": "2025/01/06 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2024/12/18 04:00 GMT+1",
+      "end": "2024/12/25 03:59 GMT+1"
+    },
+    {
+      "name": "Illia Travelogue",
+      "start": "2025/01/15 04:00 GMT+1",
+      "end": "2025/02/24 03:59 GMT+1"
+    },
+    {
+      "name": "Hypogeum Enigma",
+      "start": "2025/01/22 12:00 GMT+1",
+      "end": "2025/02/24 03:59 GMT+1"
+    },
+    {
+      "name": "Enscrolled Crepusculum",
+      "start": "2025/02/03 12:00 GMT+1",
+      "end": "2025/02/24 03:59 GMT+1"
+    }
+  ],
+  "zzz": [
+    {
+      "name": "Camelia Golden Week",
+      "start": "2024/08/21 11:00 GMT+2",
+      "end": "2024/09/23 04:59 GMT+2"
+    },
+    {
+      "name": "\"En-Nah\" Into Your Lap",
+      "start": "2024/09/04 11:00 GMT+2",
+      "end": "2024/09/24 04:59 GMT+2"
+    },
+    {
+      "name": "Immersive Tactical Drill",
+      "start": "2024/09/06 11:00 GMT+2",
+      "end": "2024/09/16 04:59 GMT+2"
+    },
+    {
+      "name": "Scene One, Shot One!",
+      "start": "2024/09/13 11:00 GMT+2",
+      "end": "2024/09/23 04:59 GMT+2"
+    },
+    {
+      "name": "Coffee Sorcery: Tuning",
+      "start": "2024/09/18 05:00:00 GMT+2",
+      "end": "2024/09/23 04:59:59 GMT+2"
+    },
+    {
+      "name": "All-New Program",
+      "start": "2024/09/25 05:00:00 GMT+2",
+      "end": "2024/11/05 03:59:59 GMT+2"
+    },
+    {
+      "name": "Ember-Crowned Overlord & Dissonant Sonata",
+      "start": "2024/09/25 05:00:00 GMT+2",
+      "end": "2024/10/16 03:59:59 GMT+2"
+    },
+    {
+      "name": "Overlord's Feast",
+      "start": "2024/09/26 11:00:00 GMT+2",
+      "end": "2024/11/04 03:59:59 GMT+2"
+    },
+    {
+      "name": "Don't Walk Alone",
+      "start": "2024/09/30 11:00 GMT+2",
+      "end": "2024/10/14 04:59 GMT+2"
+    },
+    {
+      "name": "\"En-Nah\" Into Your Lap",
+      "start": "2024/10/16 11:00 GMT+2",
+      "end": "2024/11/05 04:59 GMT+2"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2024/09/30 05:00 GMT+2",
+      "end": "2024/10/15 04:59 GMT+2"
+    },
+    {
+      "name": "Ridu for You",
+      "start": "2024/10/07 11:00 GMT+2",
+      "end": "2024/10/21 04:59 GMT+2"
+    },
+    {
+      "name": "Roaming the Ether",
+      "start": "2024/10/16 11:00 GMT+2",
+      "end": "2024/10/28 04:59 GMT+2"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2024/10/21 05:00 GMT+2",
+      "end": "2024/10/26 04:59 GMT+2"
+    },
+    {
+      "name": "141 Friendship Fair",
+      "start": "2024/10/27 11:00 GMT+2",
+      "end": "2024/11/04 04:59 GMT+2"
+    },
+    {
+      "name": "Vicious Dogs Within",
+      "start": "2024/10/25 11:00 GMT+2",
+      "end": "2024/11/01 04:59 GMT+2"
+    },
+    {
+      "name": "🎲Moonlight Serenity&Dissonant Sonata",
+      "start": "2024/11/06 04:00 GMT+1",
+      "end": "2024/11/27 11:59 GMT+1"
+    },
+    {
+      "name": "∞ The Mystery of Arpeggio Fault",
+      "start": "2024/11/06 04:00 GMT+1",
+      "end": "2024/12/17 03:59 GMT+1"
+    },
+    {
+      "name": "Moonlight Traces",
+      "start": "2024/11/06 04:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "🆓All-New Prgram",
+      "start": "2024/11/06 04:00 GMT+1",
+      "end": "2024/12/17 03:59 GMT+1"
+    },
+    {
+      "name": "Virtual Battlefield Mayhem",
+      "start": "2024/11/11 10:00 GMT+1",
+      "end": "2024/11/25 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah assitant program",
+      "start": "2024/11/16 10:00 GMT+1",
+      "end": "2024/12/02 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2024/11/22 04:00 GMT+1",
+      "end": "2024/11/27 03:59 GMT+1"
+    },
+    {
+      "name": "'En-Nah' Into Your Lap",
+      "start": "2024/11/27 10:00 GMT+1",
+      "end": "2024/12/17 03:59 GMT+1"
+    },
+    {
+      "name": "The Champion",
+      "start": "2024/11/27 12:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "Help Kai",
+      "start": "2024/12/02 04:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "When Sandwiches Come A Knockin'",
+      "start": "2024/12/04 10:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2024/12/11 04:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "🆓All-New Program",
+      "start": "2024/12/18 04:00 GMT+1",
+      "end": "2025/03/11 22:59 GMT+1"
+    },
+    {
+      "name": "🆓Special Visitor",
+      "start": "2024/12/18 04:00 GMT+1",
+      "end": "2025/01/21 03:59 GMT+1"
+    },
+    {
+      "name": "Bangboo vs Ethereal",
+      "start": "2024/12/20 10:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "Where the Stars Shine Bright",
+      "start": "2024/12/23 10:00 GMT+1",
+      "end": "2025/01/06 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2024/12/25 04:00 GMT+1",
+      "end": "2024/12/30 03:59 GMT+1"
+    },
+    {
+      "name": "Into That Pale Wasteland",
+      "start": "2024/12/27 10:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "Windchaser Harumasa",
+      "start": "2024/12/30 10:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "🆓'En-Nah' Into Your Lap",
+      "start": "2025/01/01 10:00 GMT+1",
+      "end": "2025/01/21 03:59 GMT+1"
+    },
+    {
+      "name": "Combat Footage Review",
+      "start": "2025/01/03 10:00 GMT+1",
+      "end": "2025/01/13 03:59 GMT+1"
+    },
+    {
+      "name": "Collab Designer",
+      "start": "2025/01/09 04:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "Before the Curtain Rises",
+      "start": "2025/01/13 10:00 GMT+1",
+      "end": "2025/01/29 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2025/01/15 04:00 GMT+1",
+      "end": "2025/01/20 03:59 GMT+1"
+    },
+    {
+      "name": "Help Kai",
+      "start": "2024/12/02 04:00 GMT+1",
+      "end": "2024/12/16 03:59 GMT+1"
+    },
+    {
+      "name": "🆓Brilliant Overture",
+      "start": "2025/01/22 10:00 GMT+1",
+      "end": "2025/03/11 03:59 GMT+1"
+    },
+    {
+      "name": "Harmonic Pact",
+      "start": "2025/01/22 10:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "The Troubles of Ellen the Shark",
+      "start": "2025/01/22 10:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "The Day of Brilliant Wishes",
+      "start": "2025/01/23 10:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "A Dream Come True at Last",
+      "start": "2025/01/24 10:00 GMT+1",
+      "end": "2025/02/05 03:59 GMT+1"
+    },
+    {
+      "name": "Godfinger Ultimate Showdown",
+      "start": "2025/01/28 10:00 GMT+1",
+      "end": "2025/02/10 03:59 GMT+1"
+    },
+    {
+      "name": "🆓New Year Gift",
+      "start": "2025/01/29 10:00 GMT+1",
+      "end": "2025/03/11 03:59 GMT+1"
+    },
+    {
+      "name": "Click Click Hollow Reporter",
+      "start": "2025/02/02 10:00 GMT+1",
+      "end": "2025/02/17 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2025/02/07 04:00 GMT+1",
+      "end": "2025/02/12 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah Into Your Lap",
+      "start": "2025/02/12 10:00 GMT+1",
+      "end": "2025/03/11 03:59 GMT+1"
+    },
+    {
+      "name": "Elpis Ultimate Angler Championship",
+      "start": "2025/02/14 10:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "Hollow Zero: Cleanse Calamity",
+      "start": "2025/02/17 04:00 GMT+1",
+      "end": "2025/03/03 03:59 GMT+1"
+    },
+    {
+      "name": "Today's Recommended Film",
+      "start": "2025/02/21 10:00 GMT+1",
+      "end": "2025/03/03 03:59 GMT+1"
+    },
+    {
+      "name": "141 Going Green For Everyone",
+      "start": "2025/02/26 10:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2025/03/05 04:00 GMT+1",
+      "end": "2025/03/10 03:59 GMT+1"
+    }
+  ]
+}
