@@ -503,6 +503,11 @@
       "name": "Holy City Appraisals",
       "start": "2025/03/19 12:00 GMT+1",
       "end": "2025/04/07 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure Event",
+      "start": "2025/03/12 04:00 GMT+1",
+      "end": "2025/03/19 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -752,12 +757,12 @@
       "end": "2025/02/17 03:59 GMT+1"
     },
     {
-      "name": "Advanced Bounty: Routine Cleanup",
+      "name": "2️⃣Advanced Bounty: Routine Cleanup",
       "start": "2025/02/07 04:00 GMT+1",
       "end": "2025/02/12 03:59 GMT+1"
     },
     {
-      "name": "En-Nah Into Your Lap",
+      "name": "🆓En-Nah Into Your Lap",
       "start": "2025/02/12 10:00 GMT+1",
       "end": "2025/03/11 03:59 GMT+1"
     },
@@ -782,9 +787,64 @@
       "end": "2025/03/10 03:59 GMT+1"
     },
     {
-      "name": "Data Bounty: Combat Simulation",
+      "name": "2️⃣Data Bounty: Combat Simulation",
       "start": "2025/03/05 04:00 GMT+1",
       "end": "2025/03/10 03:59 GMT+1"
+    },
+    {
+      "name": "🆓All-New Program",
+      "start": "2025/03/12 04:00 GMT+1",
+      "end": "2025/04/22 03:59 GMT+1"
+    },
+    {
+      "name": "March On, Tiny Titan!",
+      "start": "2025/03/12 04:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
+    },
+    {
+      "name": "Silver Soldier Song",
+      "start": "2025/03/12 04:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
+    },
+    {
+      "name": "Delivery Cat Woes",
+      "start": "2025/03/16 10:00 GMT+1",
+      "end": "2025/03/31 03:59 GMT+1"
+    },
+    {
+      "name": "Hollow Zero: Shattered Edge",
+      "start": "2025/03/21 10:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2025/03/26 04:00 GMT+1",
+      "end": "2025/03/31 03:59 GMT+1"
+    },
+    {
+      "name": "Virtual World: Battle Storm",
+      "start": "2025/04/02 10:00 GMT+1",
+      "end": "2025/04/14 03:59 GMT+1"
+    },
+    {
+      "name": "🆓'En-Nah' Into Your Lap",
+      "start": "2025/04/02 10:00 GMT+1",
+      "end": "2025/04/22 03:59 GMT+1"
+    },
+    {
+      "name": "Zero Point Calibration",
+      "start": "2025/04/02 12:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
+    },
+    {
+      "name": "Little Knight's Big Charge",
+      "start": "2025/04/09 10:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
+    },
+    {
+      "name": "2️⃣Data Bounty: Combat Simulation",
+      "start": "2025/04/16 04:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
     }
   ]
 }
