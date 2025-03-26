@@ -178,7 +178,7 @@
     {
       "name": "💸Anniversary Spend Bonuses",
       "start": "2025/02/20 04:00 GMT+1",
-      "end": "2025/03/20 02:59 GMT+1"
+      "end": "2025/04/04 02:59 GMT+1"
     },
     {
       "name": "👩Clang! Fortune's Star Arrives!",
@@ -199,6 +199,26 @@
       "name": "Time Capsule",
       "start": "2025/02/20 04:00 GMT+1",
       "end": "2025/03/21 12:00 GMT+1"
+    },
+    {
+      "name": "📖Silent the Setting Sun Remains",
+      "start": "2025/03/06 10:00 GMT+1",
+      "end": "2025/04/24 04:59 GMT+1"
+    },
+    {
+      "name": "🔰After the Blood Moon Fades",
+      "start": "2025/03/10 10:00 GMT+1",
+      "end": "2025/04/24 04:59 GMT+1"
+    },
+    {
+      "name": "Blooming in the New Year",
+      "start": "2025/03/24 10:00 GMT+1",
+      "end": "2025/04/24 04:59 GMT+1"
+    },
+    {
+      "name": "Deep Sequence: Performance test",
+      "start": "2025/03/24 10:00 GMT+1",
+      "end": "2025/04/28 04:59 GMT+1"
     }
   ],
   "genshin": [
