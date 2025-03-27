@@ -530,14 +530,19 @@
       "end": "2025/04/07 03:59 GMT+1"
     },
     {
+      "name": "Planar Fissure Event",
+      "start": "2025/03/12 04:00 GMT+1",
+      "end": "2025/03/19 03:59 GMT+1"
+    },
+    {
       "name": "Holy City Appraisals",
       "start": "2025/03/19 12:00 GMT+1",
       "end": "2025/04/07 03:59 GMT+1"
     },
     {
-      "name": "Planar Fissure Event",
-      "start": "2025/03/12 04:00 GMT+1",
-      "end": "2025/03/19 03:59 GMT+1"
+      "name": "Realm of the Strange",
+      "start": "2025/03/28 04:00 GMT+1",
+      "end": "2025/04/04 03:59 GMT+1"
     }
   ],
   "zzz": [
