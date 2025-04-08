@@ -433,9 +433,24 @@
       "end": "2025/03/24 03:59 GMT+1"
     },
     {
-      "name": "Tournament of Glory in Bloom Event",
+      "name": "🧭The Sacred Mountain and Sanctified Land",
+      "start": "2025/03/28 10:00 GMT+1",
+      "end": "2025/06/17 14:59 GMT+1"
+    },
+    {
+      "name": "Mushroom Realm Mystery",
+      "start": "2025/03/28 10:00 GMT+1",
+      "end": "2025/04/15 17:59 GMT+1"
+    },
+    {
+      "name": "Tournament of Glory in Bloom",
       "start": "2025/03/28 10:00 GMT+1",
       "end": "2025/04/14 03:59 GMT+1"
+    },
+    {
+      "name": "Unlimited Fighting Championship",
+      "start": "2025/04/07 10:00 GMT+1",
+      "end": "2025/04/21 03:59 GMT+1"
     }
   ],
   "hsr": [
