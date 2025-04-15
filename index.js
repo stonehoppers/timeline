@@ -8,6 +8,7 @@ const hi3Timeline = document.querySelector("#hi3-timeline");
 const DAY = 1000 * 60 * 60 * 24;
 const HOUR = 1000 * 60 * 60;
 const MINUTE = 1000 * 60;
+const DAYLENGHT = 48; // no. of pixels in a day
 
 const weekdayDict = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
 const gameDict = {
@@ -38,6 +39,7 @@ for (const [game, event] of Object.entries(eventsJSON)) {
     });
     // break;
   }
+  events.sort((a, b) => b.duration - a.duration);
 }
 for (const { name, start, duration, game, timeLeft } of events) {
   addEvent(name, start, duration, gameDict[game], timeLeft);
@@ -73,6 +75,7 @@ nowDiv.scrollIntoView({
 //#region FUNCTIONS
 function addEvent(name, start, duration, timeline, timeLeft = "N/A") {
   if (duration < 0) return;
+  if (duration - daysDiff(timelineStart, now) < DAYLENGHT * -14) return;
   const eventDiv = document.createElement("div");
   eventDiv.classList.add("event");
   eventDiv.style.setProperty("--start", start > 0 ? start : 1);
@@ -105,7 +108,7 @@ function addEvent(name, start, duration, timeline, timeLeft = "N/A") {
 
 function daysDiff(start, end) {
   const { days, hours } = parseMilliseconds(end - start);
-  return days * 48 + hours * 2;
+  return days * DAYLENGHT + hours * 2;
 }
 function parseMilliseconds(milliseconds) {
   const days = Math.floor(milliseconds / DAY);
