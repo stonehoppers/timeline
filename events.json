@@ -491,6 +491,11 @@
       "name": "Treasured Above All",
       "start": "2025/05/07 04:00 GMT+1",
       "end": "2025/05/27 17:59 GMT+1"
+    },
+    {
+      "name": "Whirling Waltz",
+      "start": "2025/05/09 10:00 GMT+1",
+      "end": "2025/05/26 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -628,6 +633,11 @@
       "name": "Planar Fissure 300%",
       "start": "2025/04/23 04:00 GMT+1",
       "end": "2025/05/05 03:59 GMT+1"
+    },
+    {
+      "name": "Realm of the Strange 300%",
+      "start": "2025/05/09 04:00 GMT+1",
+      "end": "2025/05/19 03:59 GMT+1"
     }
   ],
   "zzz": [
