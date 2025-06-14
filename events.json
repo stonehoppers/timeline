@@ -239,6 +239,26 @@
       "name": "🔪Ready to go",
       "start": "2025/04/24 04:00 GMT+1",
       "end": "2025/06/06 11:59 GMT+1"
+    },
+    {
+      "name": "Snazzy Cards Championship",
+      "start": "2025/05/15 10:00 GMT+1",
+      "end": "2025/06/26 03:59 GMT+1"
+    },
+    {
+      "name": "Powered Duo",
+      "start": "2025/06/05 10:00 GMT+1",
+      "end": "2025/06/26 03:59 GMT+1"
+    },
+    {
+      "name": "📖Wayfarer",
+      "start": "2025/05/08 10:00 GMT+1",
+      "end": "2025/06/26 03:59 GMT+1"
+    },
+    {
+      "name": "🌐Biz Twin Heroines Yunchin Marketplace",
+      "start": "2025/05/28 10:00 GMT+1",
+      "end": "2025/06/16 03:59 GMT+1"
     }
   ],
   "genshin": [
@@ -506,6 +526,16 @@
       "name": "Chronicle of Shifting Stratagems",
       "start": "2025/05/27 10:00 GMT+1",
       "end": "2025/06/09 03:59 GMT+1"
+    },
+    {
+      "name": "Legends Ablaze",
+      "start": "2025/06/05 10:00 GMT+1",
+      "end": "2025/06/16 03:59 GMT+1"
+    },
+    {
+      "name": "Ley Line Overflow",
+      "start": "2025/06/09 04:00 GMT+1",
+      "end": "2025/06/16 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -672,6 +702,11 @@
     {
       "name": "🆓Garden of Plenty",
       "start": "2025/06/20 04:00 GMT+1",
+      "end": "2025/06/30 03:59 GMT+1"
+    },
+    {
+      "name": "Trace 'n' Drift",
+      "start": "2025/06/11 12:00 GMT+1",
       "end": "2025/06/30 03:59 GMT+1"
     }
   ],
@@ -1060,6 +1095,41 @@
       "name": "🆓Surprises Are on the Way",
       "start": "2025/05/23 10:00 GMT+1",
       "end": "2025/06/05 03:59 GMT+1"
+    },
+    {
+      "name": "🆓Festival Channel",
+      "start": "2025/06/06 04:00 GMT+1",
+      "end": "2025/07/15 22:59 GMT+1"
+    },
+    {
+      "name": "🆓Failume Gift",
+      "start": "2025/06/06 04:00 GMT+1",
+      "end": "2025/07/15 03:59 GMT+1"
+    },
+    {
+      "name": "🆓En-Normous Surprise!",
+      "start": "2025/06/25 11:00 GMT+1",
+      "end": "2025/07/15 03:59 GMT+1"
+    },
+    {
+      "name": "Golden Proxy Awards Annual Ceremony",
+      "start": "2025/06/06 04:00 GMT+1",
+      "end": "2025/06/23 03:59 GMT+1"
+    },
+    {
+      "name": "Soul of Steel: Golden Bond",
+      "start": "2025/06/06 11:00 GMT+1",
+      "end": "2025/07/07 03:59 GMT+1"
+    },
+    {
+      "name": "Gravitational Attraction",
+      "start": "2025/06/08 10:00 GMT+1",
+      "end": "2025/07/14 03:59 GMT+1"
+    },
+    {
+      "name": "Holographic Onslaught",
+      "start": "2025/06/13 10:00 GMT+1",
+      "end": "2025/06/30 03:59 GMT+1"
     }
   ]
 }
