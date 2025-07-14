@@ -259,6 +259,36 @@
       "name": "🌐Biz Twin Heroines Yunchin Marketplace",
       "start": "2025/05/28 10:00 GMT+1",
       "end": "2025/06/16 03:59 GMT+1"
+    },
+    {
+      "name": "📖Towards a new life",
+      "start": "2025/07/10 10:00 GMT+1",
+      "end": "2025/08/21 03:59 GMT+1"
+    },
+    {
+      "name": "🔰Towards Blessings and Wishes",
+      "start": "2025/06/26 04:00 GMT+1",
+      "end": "2025/08/21 03:59 GMT+1"
+    },
+    {
+      "name": "👗Summer silhoulettes",
+      "start": "2025/06/26 04:00 GMT+1",
+      "end": "2025/08/21 03:59 GMT+1"
+    },
+    {
+      "name": "👗Eldritch Vantage",
+      "start": "2025/07/04 12:00 GMT+1",
+      "end": "2025/07/18 12:59 GMT+1"
+    },
+    {
+      "name": "👩Shooting star's trail",
+      "start": "2025/06/26 04:00 GMT+1",
+      "end": "2025/08/08 11:59 GMT+1"
+    },
+    {
+      "name": "🔪Ready to go",
+      "start": "2025/06/26 04:00 GMT+1",
+      "end": "2025/08/08 11:59 GMT+1"
     }
   ],
   "genshin": [
@@ -536,6 +566,31 @@
       "name": "Ley Line Overflow",
       "start": "2025/06/09 04:00 GMT+1",
       "end": "2025/06/16 03:59 GMT+1"
+    },
+    {
+      "name": "Travelers' Tales: Gilded Chapter",
+      "start": "2025/06/18 04:00 GMT+1",
+      "end": "2025/07/29 14:59 GMT+1"
+    },
+    {
+      "name": "Battle of Imagined Arrays",
+      "start": "2025/06/20 10:00 GMT+1",
+      "end": "2025/07/07 03:59 GMT+1"
+    },
+    {
+      "name": "Overflowing Abundance",
+      "start": "2025/07/07 04:00 GMT+1",
+      "end": "2025/07/14 03:59 GMT+1"
+    },
+    {
+      "name": "Reminiscent Regimen",
+      "start": "2025/07/14 10:00 GMT+1",
+      "end": "2025/07/24 03:59 GMT+1"
+    },
+    {
+      "name": "Stygian Onslaught",
+      "start": "2025/06/25 10:00 GMT+1",
+      "end": "2025/07/29 03:59 GMT+1"
     }
   ],
   "hsr": [
