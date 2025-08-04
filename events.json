@@ -596,6 +596,21 @@
       "name": "Fearsome Ferocious Firepower",
       "start": "2025/07/21 10:00 GMT+1",
       "end": "2025/07/29 03:59 GMT+1"
+    },
+    {
+      "name": "Sunspray Summer Resort",
+      "start": "2025/07/30 04:00 GMT+1",
+      "end": "2025/09/09 14:59 GMT+1"
+    },
+    {
+      "name": "The Journey Home",
+      "start": "2025/07/30 04:00 GMT+1",
+      "end": "2025/09/09 14:59 GMT+1"
+    },
+    {
+      "name": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
+      "start": "2025/07/30 04:00 GMT+1",
+      "end": "2025/10/21 14:59 GMT+1"
     }
   ],
   "hsr": [
@@ -783,6 +798,11 @@
       "name": "Planar Fissure",
       "start": "2025/07/16 04:00 GMT+1",
       "end": "2025/07/28 03:59 GMT+1"
+    },
+    {
+      "name": "Realm of the Strange",
+      "start": "2025/07/31 04:00 GMT+1",
+      "end": "2025/08/11 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -1225,6 +1245,21 @@
       "name": "Legend of the Marvelous Fish Stall",
       "start": "2025/07/22 10:00 GMT+1",
       "end": "2025/08/11 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah' Chess Legend",
+      "start": "2025/07/28 10:00 GMT+1",
+      "end": "2025/09/03 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Routine Cleanup",
+      "start": "2025/08/01 04:00 GMT+1",
+      "end": "2025/08/06 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah Into Your Lap Event Details",
+      "start": "2025/08/06 10:00 GMT+1",
+      "end": "2025/09/03 03:59 GMT+1"
     }
   ]
 }
