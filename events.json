@@ -600,7 +600,7 @@
     {
       "name": "Sunspray Summer Resort",
       "start": "2025/07/30 04:00 GMT+1",
-      "end": "2025/09/09 14:59 GMT+1"
+      "end": "2025/08/18 14:59 GMT+1"
     },
     {
       "name": "The Journey Home",
@@ -611,6 +611,16 @@
       "name": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
       "start": "2025/07/30 04:00 GMT+1",
       "end": "2025/10/21 14:59 GMT+1"
+    },
+    {
+      "name": "Stygian Onslaught",
+      "start": "2025/08/06 10:00 GMT+1",
+      "end": "2025/08/16 03:59 GMT+1"
+    },
+    {
+      "name": "Tracing Vanishing Trails",
+      "start": "2025/08/14 10:00 GMT+1",
+      "end": "2025/08/25 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -1264,6 +1274,11 @@
     {
       "name": "Ghost Ship Adventure",
       "start": "2025/08/06 10:00 GMT+1",
+      "end": "2025/08/25 03:59 GMT+1"
+    },
+    {
+      "name": "JoJo's Space Mystery",
+      "start": "2025/08/13 10:00 GMT+1",
       "end": "2025/08/25 03:59 GMT+1"
     }
   ]
