@@ -621,6 +621,11 @@
       "name": "Tracing Vanishing Trails",
       "start": "2025/08/14 10:00 GMT+1",
       "end": "2025/08/25 03:59 GMT+1"
+    },
+    {
+      "name": "Mementos of Teyvat: Prelude of the Frozen Veil",
+      "start": "2025/08/21 10:00 GMT+1",
+      "end": "2025/08/01 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -818,6 +823,21 @@
       "name": "Chrysos Maze Grand Restaurant",
       "start": "2025/08/13 04:00 GMT+1",
       "end": "2025/09/22 03:59 GMT+1"
+    },
+    {
+      "name": "Chrysos Maze Grand Restaurant",
+      "start": "2025/08/13 04:00 GMT+1",
+      "end": "2025/09/22 03:59 GMT+1"
+    },
+    {
+      "name": "Space Station Task Force",
+      "start": "2025/08/20 04:00 GMT+1",
+      "end": "2025/09/01 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2025/08/27 04:00 GMT+1",
+      "end": "2025/09/08 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -1285,6 +1305,16 @@
       "name": "JoJo's Space Mystery",
       "start": "2025/08/13 10:00 GMT+1",
       "end": "2025/08/25 03:59 GMT+1"
+    },
+    {
+      "name": "Failume Summer Puzzle!",
+      "start": "2025/08/20 10:00 GMT+1",
+      "end": "2025/09/03 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2025/08/27 04:00 GMT+1",
+      "end": "2025/09/01 03:59 GMT+1"
     }
   ]
 }
