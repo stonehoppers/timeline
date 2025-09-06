@@ -289,6 +289,21 @@
       "name": "🔪Ready to go",
       "start": "2025/06/26 04:00 GMT+1",
       "end": "2025/08/08 11:59 GMT+1"
+    },
+    {
+      "name": "🔰Assemble! Summer Friendship Resort",
+      "start": "2025/08/28 10:00 GMT+1",
+      "end": "2025/10/23 03:59 GMT+1"
+    },
+    {
+      "name": "🛒Abundant Love",
+      "start": "2025/08/28 10:00 GMT+1",
+      "end": "2025/10/23 03:59 GMT+1"
+    },
+    {
+      "name": "📖Yet the Stars Still Sparkle",
+      "start": "2025/08/21 04:00 GMT+1",
+      "end": "2025/10/23 03:59 GMT+1"
     }
   ],
   "genshin": [
@@ -1327,7 +1342,7 @@
       "end": "2025/09/01 03:59 GMT+1"
     },
     {
-      "name": "All-New Program",
+      "name": "🆓All-New Program",
       "start": "2025/09/04 04:00 GMT+1",
       "end": "2025/10/14 03:59 GMT+1"
     },
