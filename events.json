@@ -613,17 +613,17 @@
       "end": "2025/07/29 03:59 GMT+1"
     },
     {
-      "name": "Sunspray Summer Resort",
+      "name": "🔰Sunspray Summer Resort",
       "start": "2025/07/30 04:00 GMT+1",
       "end": "2025/08/18 14:59 GMT+1"
     },
     {
-      "name": "The Journey Home",
+      "name": "📖The Journey Home",
       "start": "2025/07/30 04:00 GMT+1",
       "end": "2025/09/09 14:59 GMT+1"
     },
     {
-      "name": "An Easy-Breezy Natlan in an Easy-Breezy Summer!",
+      "name": "🧭An Easy-Breezy Natlan in an Easy-Breezy Summer!",
       "start": "2025/07/30 04:00 GMT+1",
       "end": "2025/10/21 14:59 GMT+1"
     },
@@ -646,6 +646,41 @@
       "name": "Ley Line Overflow",
       "start": "2025/09/01 04:00 GMT+1",
       "end": "2025/09/08 03:59 GMT+1"
+    },
+    {
+      "name": "🆓To Temper Thyself and Journey Far",
+      "start": "2025/09/10 04:00 GMT+1",
+      "end": "2025/12/01 03:59 GMT+1"
+    },
+    {
+      "name": "🆓Uncover Lunar Realms, Hone the Eventide Radiance",
+      "start": "2025/09/10 04:00 GMT+1",
+      "end": "2025/10/21 14:59 GMT+1"
+    },
+    {
+      "name": "📖A Dance of Snowy Tides and Hoarfrost Groves",
+      "start": "2025/09/10 04:00 GMT+1",
+      "end": "2025/10/21 14:59 GMT+1"
+    },
+    {
+      "name": "🧭The Isle of Cold Moonlight",
+      "start": "2025/09/10 04:00 GMT+1",
+      "end": "2025/12/02 14:59 GMT+1"
+    },
+    {
+      "name": "🆓Missive of Grace: A Thank-You Gift",
+      "start": "2025/09/28 00:00 GMT+1",
+      "end": "2025/10/21 23:00 GMT+1"
+    },
+    {
+      "name": "🆓Rainbow's End: Silvery Flux",
+      "start": "2025/10/01 04:00 GMT+1",
+      "end": "2025/10/21 14:59 GMT+1"
+    },
+    {
+      "name": "🔰Clink Clank Clash",
+      "start": "2025/09/12 10:00 GMT+1",
+      "end": "2025/09/29 3:59 GMT+1"
     }
   ],
   "hsr": [
@@ -862,6 +897,11 @@
     {
       "name": "Old Brews & New Friends",
       "start": "2025/09/02 12:00 GMT+1",
+      "end": "2025/09/22 03:59 GMT+1"
+    },
+    {
+      "name": "Garden of Plenty",
+      "start": "2025/09/12 04:00 GMT+1",
       "end": "2025/09/22 03:59 GMT+1"
     }
   ],
@@ -1355,6 +1395,16 @@
       "name": "Band of Brave Bangboo",
       "start": "2025/09/05 10:00 GMT+1",
       "end": "2025/10/13 03:59 GMT+1"
+    },
+    {
+      "name": "Wish Bottle Adrift",
+      "start": "2025/09/09 10:00 GMT+1",
+      "end": "2025/09/29 03:59 GMT+1"
+    },
+    {
+      "name": "Spotlight Showdown",
+      "start": "2025/09/13 10:00 GMT+1",
+      "end": "2025/09/29 03:59 GMT+1"
     }
   ]
 }
