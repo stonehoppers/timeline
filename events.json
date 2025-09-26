@@ -898,6 +898,11 @@
       "name": "Garden of Plenty",
       "start": "2025/09/12 04:00 GMT+1",
       "end": "2025/09/22 03:59 GMT+1"
+    },
+    {
+      "name": "Nice Weather for Dromases",
+      "start": "2025/09/24 04:00 GMT+1",
+      "end": "2025/11/03 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -1405,6 +1410,16 @@
       "name": "Advanced Bounty: Routine Cleanup",
       "start": "2025/09/18 04:00 GMT+1",
       "end": "2025/09/23 03:59 GMT+1"
+    },
+    {
+      "name": "Problem Soldier Boot Camp",
+      "start": "2025/09/24 10:00 GMT+1",
+      "end": "2025/10/09 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah' Into Your Lap",
+      "start": "2025/09/24 10:00 GMT+1",
+      "end": "2025/10/14 03:59 GMT+1"
     }
   ]
 }
