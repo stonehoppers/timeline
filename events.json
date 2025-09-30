@@ -680,7 +680,12 @@
     {
       "name": "🔰Clink Clank Clash",
       "start": "2025/09/12 10:00 GMT+1",
-      "end": "2025/09/29 3:59 GMT+1"
+      "end": "2025/09/29 03:59 GMT+1"
+    },
+    {
+      "name": "Dodoco's Blow-Up-Erative Bomb-Nanza",
+      "start": "2025/09/29 10:00 GMT+1",
+      "end": "2025/10/13 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -902,6 +907,11 @@
     {
       "name": "Nice Weather for Dromases",
       "start": "2025/09/24 04:00 GMT+1",
+      "end": "2025/11/03 03:59 GMT+1"
+    },
+    {
+      "name": "Colorful Mayhem",
+      "start": "2025/09/30 12:00 GMT+1",
       "end": "2025/11/03 03:59 GMT+1"
     }
   ],
@@ -1420,6 +1430,11 @@
       "name": "En-Nah' Into Your Lap",
       "start": "2025/09/24 10:00 GMT+1",
       "end": "2025/10/14 03:59 GMT+1"
+    },
+    {
+      "name": "Rhythm Rave",
+      "start": "2025/09/29 10:00 GMT+1",
+      "end": "2025/10/13 03:59 GMT+1"
     }
   ]
 }
