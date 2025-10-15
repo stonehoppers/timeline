@@ -928,6 +928,11 @@
       "name": "Planar Fissure",
       "start": "2025/10/08 04:00 GMT+1",
       "end": "2025/10/20 03:59 GMT+1"
+    },
+    {
+      "name": "Try-Not-to-Laugh Challenge",
+      "start": "2025/10/15 12:00 GMT+1",
+      "end": "2025/11/03 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -1460,6 +1465,36 @@
       "name": "En-Nah' Treasure Hunt",
       "start": "2025/10/04 10:00 GMT+1",
       "end": "2025/10/13 03:59 GMT+1"
+    },
+    {
+      "name": "📖Memories of Dreams Bygone",
+      "start": "2025/10/15 04:00 GMT+1",
+      "end": "2025/11/25 21:59 GMT+1"
+    },
+    {
+      "name": "💸Signal Search Thank-You Gift",
+      "start": "2025/10/15 04:00 GMT+1",
+      "end": "2025/12/30 23:59 GMT+1"
+    },
+    {
+      "name": "The Inverted Night Lantern",
+      "start": "2025/10/15 04:00 GMT+1",
+      "end": "2025/11/24 03:59 GMT+1"
+    },
+    {
+      "name": "🧭Timesworn Hills Explorer's Guide",
+      "start": "2025/10/15 04:00 GMT+1",
+      "end": "2025/11/25 21:59 GMT+1"
+    },
+    {
+      "name": "🆓All-New Program",
+      "start": "2025/10/15 04:00 GMT+1",
+      "end": "2025/11/25 03:59 GMT+1"
+    },
+    {
+      "name": "When Dreams Remain Unfinished",
+      "start": "2025/10/17 10:00 GMT+1",
+      "end": "2025/11/24 03:59 GMT+1"
     }
   ]
 }
