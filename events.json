@@ -304,6 +304,36 @@
       "name": "📖Yet the Stars Still Sparkle",
       "start": "2025/08/21 04:00 GMT+1",
       "end": "2025/10/23 03:59 GMT+1"
+    },
+    {
+      "name": "🔰With You! Youthful Dreams",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/12/31 02:59 GMT+1"
+    },
+    {
+      "name": "Dreamland Treasures",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/12/08 02:59 GMT+1"
+    },
+    {
+      "name": "💸Carnival Spend Bonuses",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/12/05 11:00 GMT+1"
+    },
+    {
+      "name": "👩Letters From the Heart",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/12/05 10:59 GMT+1"
+    },
+    {
+      "name": "🔪Ready to go",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/12/05 10:59 GMT+1"
+    },
+    {
+      "name": "🔪Picling Flowers by the Sea",
+      "start": "2025/10/23 04:00 GMT+1",
+      "end": "2025/11/21 10:59 GMT+1"
     }
   ],
   "genshin": [
@@ -696,6 +726,16 @@
       "name": "Lightgleaner's Journey",
       "start": "2025/10/10 10:00 GMT+1",
       "end": "2025/10/21 03:59 GMT+1"
+    },
+    {
+      "name": "📖An Elegy for Faded Moonlight",
+      "start": "2025/10/12 06:00 GMT+1",
+      "end": "2025/12/02 14:59 GMT+1"
+    },
+    {
+      "name": "Saurian Sojourn",
+      "start": "2025/10/24 10:00 GMT+1",
+      "end": "2025/11/03 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -932,6 +972,11 @@
     {
       "name": "Try-Not-to-Laugh Challenge",
       "start": "2025/10/15 12:00 GMT+1",
+      "end": "2025/11/03 03:59 GMT+1"
+    },
+    {
+      "name": "Realm of the Strange",
+      "start": "2025/10/24 04:00 GMT+1",
       "end": "2025/11/03 03:59 GMT+1"
     }
   ],
@@ -1495,6 +1540,11 @@
       "name": "When Dreams Remain Unfinished",
       "start": "2025/10/17 10:00 GMT+1",
       "end": "2025/11/24 03:59 GMT+1"
+    },
+    {
+      "name": "SNAP! Shining Strike",
+      "start": "2025/10/22 10:00 GMT+1",
+      "end": "2025/11/10 03:59 GMT+1"
     }
   ]
 }
