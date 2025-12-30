@@ -766,6 +766,11 @@
       "name": "Soulblazers' Snowbound Journey",
       "start": "2025/12/19 10:00 GMT+1",
       "end": "2026/01/05 03:59 GMT+1"
+    },
+    {
+      "name": "Heroic Clash: Saurian Brawl",
+      "start": "2025/12/29 10:00 GMT+1",
+      "end": "2026/01/07 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -1028,6 +1033,11 @@
       "name": "Chrysos Awoo Championship",
       "start": "2025/12/17 04:00 GMT+1",
       "end": "2026/02/09 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2025/12/29 04:00 GMT+1",
+      "end": "2026/01/12 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -1655,6 +1665,21 @@
       "name": "Data Bounty: Combat Simulation",
       "start": "2025/12/24 04:00 GMT+1",
       "end": "2025/12/29 03:59 GMT+1"
+    },
+    {
+      "name": "🆓Special Visitor",
+      "start": "2025/12/30 04:00 GMT+1",
+      "end": "2026/03/24 03:59 GMT+1"
+    },
+    {
+      "name": "🆓All-New Program",
+      "start": "2025/12/30 04:00 GMT+1",
+      "end": "2026/02/05 03:59 GMT+1"
+    },
+    {
+      "name": "🔰Sword Seeker Chronicles",
+      "start": "2025/12/31 10:00 GMT+1",
+      "end": "2026/02/05 03:59 GMT+1"
     }
   ]
 }
