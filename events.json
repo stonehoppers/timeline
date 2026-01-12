@@ -781,6 +781,16 @@
       "name": "Marvelous Merchandise",
       "start": "2026/01/05 10:00 GMT+1",
       "end": "2026/01/12 03:59 GMT+1"
+    },
+    {
+      "name": "🧭The Lament of the Cliff-Shadowed Hollow",
+      "start": "2026/01/14 04:00 GMT+1",
+      "end": "2026/04/07 14:59 GMT+1"
+    },
+    {
+      "name": "📖A Traveler on a Winter's Night",
+      "start": "2026/01/14 04:00 GMT+1",
+      "end": "2026/02/24 14:59 GMT+1"
     }
   ],
   "hsr": [
@@ -1705,6 +1715,11 @@
       "name": "Joint Investigation: The Divine Maze",
       "start": "2026/01/03 10:00 GMT+1",
       "end": "2026/01/22 03:59 GMT+1"
+    },
+    {
+      "name": "Wish Filing Station",
+      "start": "2026/01/14 10:00 GMT+1",
+      "end": "2026/02/02 03:59 GMT+1"
     }
   ]
 }
