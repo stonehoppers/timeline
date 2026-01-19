@@ -1740,6 +1740,26 @@
       "name": "Advanced Bounty: Area Patrol",
       "start": "2026/01/16 04:00 GMT+1",
       "end": "2026/01/21 03:59 GMT+1"
+    },
+    {
+      "name": "Angels and Delusions of Muse",
+      "start": "2026/01/21 10:00 GMT+1",
+      "end": "2026/02/05 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah Into Your Lap",
+      "start": "2026/01/21 10:00 GMT+1",
+      "end": "2026/02/05 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2026/01/30 10:00 GMT+1",
+      "end": "2026/02/04 03:59 GMT+1"
+    },
+    {
+      "name": "Angels of Delusion Training in Progress",
+      "start": "2026/01/30 10:00 GMT+1",
+      "end": "2026/02/09 03:59 GMT+1"
     }
   ]
 }
