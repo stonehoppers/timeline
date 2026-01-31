@@ -801,6 +801,11 @@
       "name": "May Fortune Find You: Spring's Premonition",
       "start": "2026/01/16 04:00 GMT+1",
       "end": "2026/02/03 03:59 GMT+1"
+    },
+    {
+      "name": "A Lanternlit Ode to the Silver Moon",
+      "start": "2026/01/30 10:00 GMT+1",
+      "end": "2026/02/23 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -1770,6 +1775,11 @@
       "name": "Angels of Delusion Training in Progress",
       "start": "2026/01/30 10:00 GMT+1",
       "end": "2026/02/09 03:59 GMT+1"
+    },
+    {
+      "name": "Inter-Knot Membership Surprise Supply",
+      "start": "2026/01/30 20:30 GMT+1",
+      "end": "2026/03/24 23:59 GMT+1"
     }
   ]
 }
