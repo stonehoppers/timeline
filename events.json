@@ -1318,6 +1318,26 @@
       "name": "Gift of Tempered Blade",
       "start": "2026/06/01 04:00 GMT+1",
       "end": "2026/06/24 11:59 GMT+1"
+    },
+    {
+      "name": "🆓Gift of Odyssey",
+      "start": "2026/06/01 04:00 GMT+1",
+      "end": "2026/06/14 03:59 GMT+1"
+    },
+    {
+      "name": "Wispae Amusement Park",
+      "start": "2026/06/24 12:00 GMT+1",
+      "end": "2026/07/15 03:59 GMT+8"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2026/06/17 04:00 GMT+1",
+      "end": "2026/06/29 03:59 GMT+1"
+    },
+    {
+      "name": "Realm of the Strange",
+      "start": "2026/07/03 04:00 GMT+1",
+      "end": "2026/07/13 03:59 GMT+1"
     }
   ],
   "zzz": [
@@ -2165,6 +2185,66 @@
       "name": "Good Morning, Roscaelifer",
       "start": "2026/06/06 10:00 GMT+1",
       "end": "2026/06/17 05:59 GMT+8"
+    },
+    {
+      "name": "🆓All-New Prgram",
+      "start": "2026/06/17 04:00 GMT+1",
+      "end": "2026/07/28 03:59 GMT+1"
+    },
+    {
+      "name": "🆓Commemorative Gift",
+      "start": "2026/06/17 04:00 GMT+1",
+      "end": "2026/07/29 05:59 GMT+8"
+    },
+    {
+      "name": "🔰Bangbang! The Genius and the Miracle Chip",
+      "start": "2026/06/17 04:00 GMT+1",
+      "end": "2026/07/29 05:59 GMT+8"
+    },
+    {
+      "name": "Celestial Nexus Intelligence Dossier",
+      "start": "2026/06/17 04:00 GMT+1",
+      "end": "2026/07/29 05:59 GMT+8"
+    },
+    {
+      "name": "Gleaming Shadow Team Battle",
+      "start": "2026/06/19 10:00 GMT+1",
+      "end": "2026/07/13 03:59 GMT+1"
+    },
+    {
+      "name": "Assemble! Mock Exam Comeback Plan",
+      "start": "2026/06/26 10:00 GMT+1",
+      "end": "2026/07/27 03:59 GMT+1"
+    },
+    {
+      "name": "Advanced Bounty: Area Patrol",
+      "start": "2026/07/02 04:00 GMT+1",
+      "end": "2026/07/07 03:59 GMT+1"
+    },
+    {
+      "name": "Tales of the Hobbling Crow",
+      "start": "2026/07/03 10:00 GMT+1",
+      "end": "2026/07/20 03:59 GMT+1"
+    },
+    {
+      "name": "Art Is Bangboo!",
+      "start": "2026/07/08 10:00 GMT+1",
+      "end": "2026/07/27 03:59 GMT+1"
+    },
+    {
+      "name": "En-Nah Into Your Lap",
+      "start": "2026/07/08 10:00 GMT+1",
+      "end": "2026/07/28 03:59 GMT+1"
+    },
+    {
+      "name": "🆓First-Generation Void Hunter Returns",
+      "start": "2026/07/17 10:00 GMT+1",
+      "end": "2026/07/28 03:59 GMT+1"
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2026/07/22 04:00 GMT+1",
+      "end": "2026/07/27 03:59 GMT+1"
     }
   ]
 }
