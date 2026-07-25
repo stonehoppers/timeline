@@ -916,6 +916,16 @@
       "name": "🎵Nod-Krai: Where Roads Are Pledged to Cross",
       "start": "2026/07/01 04:00 GMT+1",
       "end": "2026/08/11 03:59 GMT+1"
+    },
+    {
+      "name": "Final Long-Range Sightlines",
+      "start": "2026/07/17 10:00 GMT+1",
+      "end": "2026/07/27 03:59 GMT+1"
+    },
+    {
+      "name": "Dance Dance Easy-Breezy Disco",
+      "start": "2026/07/24 10:00 GMT+1",
+      "end": "2026/08/03 03:59 GMT+1"
     }
   ],
   "hsr": [
@@ -1338,6 +1348,16 @@
       "name": "Realm of the Strange",
       "start": "2026/07/03 04:00 GMT+1",
       "end": "2026/07/13 03:59 GMT+1"
+    },
+    {
+      "name": "Antigraft Brickbuster",
+      "start": "2026/07/15 04:00 GMT+1",
+      "end": "2026/08/26 03:59 GMT+8"
+    },
+    {
+      "name": "Fate/Star Rail Night",
+      "start": "2026/07/24 12:00 GMT+1",
+      "end": "2026/08/26 03:59 GMT+8"
     }
   ],
   "zzz": [
