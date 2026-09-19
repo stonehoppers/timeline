@@ -941,6 +941,21 @@
       "name": "Mutual Aid in Bloom: Into the Frostlands",
       "start": "2026/08/12 04:00 GMT+1",
       "end": "2026/08/24 03:59 GMT+1"
+    },
+    {
+      "name": "🔰Great Expeditionist Challenge",
+      "start": "2026/08/26 10:00 GMT+1",
+      "end": "2026/09/14 03:59 GMT+1"
+    },
+    {
+      "name": "Trial of the Bastion",
+      "start": "2026/09/07 10:00 GMT+1",
+      "end": "2026/09/17 03:59 GMT+1"
+    },
+    {
+      "name": "Overflowing Abundance",
+      "start": "2026/09/14 04:00 GMT+1",
+      "end": "2026/09/21 03:59 GMT+1"
     }
   ],
   "hsr": [
