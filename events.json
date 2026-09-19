@@ -1383,6 +1383,26 @@
       "name": "Garden of Plenty",
       "start": "2026/08/14 04:00 GMT+1",
       "end": "2026/08/24 03:59 GMT+1"
+    },
+    {
+      "name": "Miniscule Great Adventure",
+      "start": "2026/09/12 04:00 GMT+1",
+      "end": "2026/09/28 03:59 GMT+1"
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2026/09/07 04:00 GMT+1",
+      "end": "2026/09/21 03:59 GMT+1"
+    },
+    {
+      "name": "Overdrive: Whirlwind Grand Prix",
+      "start": "2026/08/26 04:00 GMT+1",
+      "end": "2026/09/28 03:59 GMT+1"
+    },
+    {
+      "name": "Realm of the Strange",
+      "start": "2026/09/19 04:00 GMT+1",
+      "end": "2026/09/28 03:59 GMT+1"
     }
   ],
   "zzz": [
