@@ -23,7 +23,8 @@ body {
 }
 .timeline {
   scroll-margin-top: 100px;
-  background: repeating-linear-gradient(
+  background:
+    repeating-linear-gradient(
       to right,
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5) 1px,
@@ -64,24 +65,27 @@ body {
     padding: 0.1rem 0.6rem 0.3rem;
     position: relative;
     grid-column: calc(var(--start) + 1) / calc(var(--duration) + 1);
-    /* .time {
-      position: absolute;
-      left: calc(100% + 10px);
-      background-color: white;
-      color: black;
-      padding: 0 4px;
-      border-radius: 12px;
-    } */
     > div {
       line-height: 1rem;
       position: sticky;
       left: 20px;
       width: max-content;
     }
+    &:has(.expiring-7d) {
+      background-color: #ffff00a0;
+    }
+    &:has(.expiring-3d) {
+      background-color: #ffa600a0;
+    }
+    &:has(.expiring-1d) {
+      background-color: #b46946a0;
+    }
+    &:has(.expired) {
+      background-color: #6b1d1da0;
+    }
   }
   .event-wrapper {
     max-width: 100%;
-    /* display: flex; */
     div:nth-child(1) {
       max-width: 10ch;
       width: min-content;
@@ -91,23 +95,7 @@ body {
     .time {
       font-size: 0.7rem;
       color: lightgray;
-
-      &.expiring-7d {
-        color: yellow;
-      }
-      &.expiring-3d {
-        color: orange;
-      }
-      &.expiring-1d {
-        color: #b46946;
-      }
-      &.expired {
-        color: #6b1d1d;
-      }
     }
-    /* div:nth-child(2) {
-      overflow: none;
-    } */
   }
 }
 .timeline-label {
