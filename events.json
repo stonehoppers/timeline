@@ -2533,6 +2533,54 @@
       "name": "Data Bounty: Combat Simulation",
       "start": "2026/10/14 04:00 GMT+1",
       "end": "2026/10/19 03:59 GMT+1"
+    },
+    {
+      "name": "All-New Program",
+      "start": "2026/10/21 04:00 GMT+1",
+      "end": "2026/12/01 03:59 GMT+1",
+      "type": "free"
+    },
+    {
+      "name": "Spooky Funhouse Tales",
+      "start": "2026/10/22 04:00 GMT+1",
+      "end": "2026/11/30 03:59 GMT+1",
+      "type": "flagship"
+    },
+    {
+      "name": "Cyber Miracle Healer, on Duty!",
+      "start": "2026/10/28 04:00 GMT+1",
+      "end": "2026/11/16 03:59 GMT+1",
+      "type": ""
+    },
+    {
+      "name": "Advanced Bounty: Area Patrol",
+      "start": "2026/11/04 04:00 GMT+1",
+      "end": "2026/11/09 03:59 GMT+1",
+      "type": "double"
+    },
+    {
+      "name": "Trails of the Hobbling Crow",
+      "start": "2026/11/11 04:00 GMT+1",
+      "end": "2026/11/30 03:59 GMT+1",
+      "type": ""
+    },
+    {
+      "name": "En-Nah Into Your Lap",
+      "start": "2026/11/11 04:00 GMT+1",
+      "end": "2026/12/01 03:59 GMT+1",
+      "type": "free"
+    },
+    {
+      "name": "Repair! Drifting Art",
+      "start": "2026/11/16 04:00 GMT+1",
+      "end": "2026/11/30 03:59 GMT+1",
+      "type": ""
+    },
+    {
+      "name": "Data Bounty: Combat Simulation",
+      "start": "2026/11/25 04:00 GMT+1",
+      "end": "2026/11/30 03:59 GMT+1",
+      "type": "double"
     }
   ]
 }
