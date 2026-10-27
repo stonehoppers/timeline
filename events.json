@@ -1431,9 +1431,14 @@
       "end": "2026/08/26 03:59 GMT+8"
     },
     {
-      "name": "Fate/Star Rail Night",
+      "name": "🔰Fate/Star Rail Night",
       "start": "2026/07/24 12:00 GMT+1",
       "end": "2026/08/26 03:59 GMT+8"
+    },
+    {
+      "name": "🆓Fate Contract: Renewal",
+      "start": "2026/07/24 12:00 GMT+1",
+      "end": "2026/11/11 07:00 GMT+8"
     },
     {
       "name": "Planar Fissure",
@@ -1464,6 +1469,48 @@
       "name": "Realm of the Strange",
       "start": "2026/09/19 04:00 GMT+1",
       "end": "2026/09/28 03:59 GMT+1"
+    },
+    {
+      "name": "Love, Ghosts & Robots",
+      "start": "2026/09/28 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": "flagship"
+    },
+    {
+      "name": "Astral Imagea Park",
+      "start": "2026/09/28 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": "flagship"
+    },
+    {
+      "name": "Gift of Odyssey",
+      "start": "2026/09/28 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": "free"
+    },
+    {
+      "name": "Wishpower UP! Down with Voracity!",
+      "start": "2026/09/28 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": "free"
+    },
+    {
+      "name": "Interastral Peace Gala: One Take",
+      "start": "2026/10/21 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": ""
+    },
+    {
+      "name": "Planar Fissure",
+      "start": "2026/10/12 04:00 GMT+1",
+      "end": "2026/10/25 03:59 GMT+1",
+      "type": "double"
+    },
+    {
+      "name": "Garden of Plenty",
+      "start": "2026/10/30 04:00 GMT+1",
+      "end": "2026/11/11 03:59 GMT+1",
+      "type": "double"
     }
   ],
   "zzz": [
