@@ -20,16 +20,25 @@ const gameDict = {
 
 const now = new Date();
 const timelineStart = new Date(
-  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - 1, 1)
+  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() - 1, 1),
 );
 const timelineEnd = new Date(
-  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 2, 0)
+  Date.UTC(now.getUTCFullYear(), now.getUTCMonth() + 2, 0),
 );
 
 //add events
 const events = [];
 for (const [game, event] of Object.entries(eventsJSON)) {
-  for (const { name, start, end } of event) {
+  for (let { name, start, end, type } of event) {
+    if (type) {
+      const icons = new Map([
+        ["flagship", "🔰"],
+        ["free", "🆓"],
+        ["double", "2️"],
+        ["story", "📖"],
+      ]);
+      name = (icons.get(type) || "") + name;
+    }
     events.push({
       name,
       game,
